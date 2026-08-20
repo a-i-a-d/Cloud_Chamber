@@ -1,7 +1,7 @@
-$fn=32;
+$fn=128;
 
-//part = "lower";
-part = "upper";
+part = "lower";
+//part = "upper";
 
 power_x = 230;
 power_y = 116;
@@ -30,6 +30,10 @@ dclow_y = 23;
 dclow_z = 1;
 dclow_screws = [[40.5,3.2,0],[7.25,20,0]];
 dclow_screw_dia = 3.2;
+
+wagobase_x = 17;
+wagobase_y = 30;
+wagobase_z = 10;
 
 plug_outside_x = 45;
 plug_x = 30;
@@ -71,7 +75,11 @@ case_x = power_x + power_addon_x;
 power_loc = [case_wall+5,screw_block_y+1,0];
 plug_loc = [case_x+3+2*case_wall,case_y-plug_outside_x-5,plug_y+case_wall+1];
 plug_rot = [270,0,90];
-dclow_loc = [case_wall+80,case_y-dclow_y-14,0];
+wagobase_loc = [case_x-power_switch_x+case_wall-plug_z-wagobase_x-18,case_y-wagobase_y+case_wall-10,0];
+dclow_loc1 = [case_x-power_switch_x+case_wall-plug_z-40,case_y-dclow_x+case_wall-1,0];
+dclow_loc2 = [case_x-power_switch_x+case_wall-plug_z-42-dclow_y,case_y-dclow_x+case_wall-1,0];
+dclow_loc3 = [case_x-power_switch_x+case_wall-plug_z-44-2*dclow_y,case_y-dclow_x+case_wall-1,0];
+dclow_loc4 = [case_x-power_switch_x+case_wall-plug_z-46-3*dclow_y,case_y-dclow_x+case_wall-1,0];
 power_switch_loc = [case_x-power_switch_x+case_wall-plug_z,case_y-power_switch_y+2*case_wall,2*case_wall];
 dcdc_loc1 = [case_x+2*case_wall-dcdc_x-10,(case_y+2*case_wall-dcdc_y)/2-dcdc_y/2-10,case_z+case_wall];
 dcdc_loc2 = [case_x+2*case_wall-dcdc_x-10,(case_y+2*case_wall-dcdc_y)/2+dcdc_y/2+10,case_z+case_wall];
@@ -202,9 +210,16 @@ module place_parts(negative=false)
             plug(negative=negative);
         }
     }
-    translate(dclow_loc)
+    translate(wagobase_loc)
     {
-        dclow(negative=negative);
+        wagobase(negative=negative);
+    }
+    for(i=[dclow_loc1,dclow_loc2,dclow_loc3,dclow_loc4])
+    {
+        translate(i)
+        {
+            dclow(negative=negative);
+        }
     }
     translate(power_switch_loc)
     {
@@ -479,7 +494,7 @@ module dcdc(negative=false)
     {
         place_screws(dcdc_screw_x,dcdc_screw_y,dcdc_screw_off_x,dcdc_screw_off_y,-case_wall)
         {
-            #cylinder(d=dcdc_screw_dia,h=2*case_wall);
+            cylinder(d=dcdc_screw_dia,h=2*case_wall);
         }
         for(i=[10,dcdc_y-10])
         {
@@ -513,30 +528,44 @@ module switch_underplate(negative=false)
 
 module dclow(negative=false)
 {
-    if(negative==true)
+    rotate([0,0,90])
     {
-        for(i=dclow_screws)
+        if(negative==true)
         {
-            translate(i)
+            for(i=dclow_screws)
             {
-                #cylinder(d=dclow_screw_dia,h=2*case_wall);
-                #cylinder(d=2.4*dclow_screw_dia,h=case_wall);
+                translate(i)
+                {
+                    #cylinder(d=dclow_screw_dia,h=2*case_wall);
+                    #cylinder(d=2.4*dclow_screw_dia,h=case_wall);
+                }
+            }
+        }
+        if(negative==false)
+        {
+            translate([0,0,2*case_wall])
+            {
+                %cube([dclow_x,dclow_y,dclow_z]);
+            }
+            for(i=dclow_screws)
+            {
+                translate(i+[0,0,case_wall])
+                {
+                    cylinder(d1=3.4*dclow_screw_dia,d2=2*dclow_screw_dia,h=case_wall);
+                }
             }
         }
     }
+}
+
+module wagobase(negative=false)
+{
     if(negative==false)
     {
-        translate([0,0,2*case_wall])
-        {
-            %cube([dclow_x,dclow_y,dclow_z]);
-        }
-        for(i=dclow_screws)
-        {
-            translate(i+[0,0,case_wall])
-            {
-                cylinder(d1=3.4*dclow_screw_dia,d2=2*dclow_screw_dia,h=case_wall);
-            }
-        }
+        cube([wagobase_x,wagobase_y,wagobase_z]);
+    }
+    if(negative==true)
+    {
     }
 }
 
