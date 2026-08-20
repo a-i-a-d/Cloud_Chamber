@@ -100,6 +100,24 @@
 - Attach cables to out connectors of voltage converters 
 ![](images/assembly/4b_cover_upperside.jpg) 
 
+## 5. Assemble Cooling Tower
+
+![](images/assembly/5a_cooling_tower.jpg)
+![](images/assembly/5b_cooling_tower.jpg)
+![](images/assembly/5c_cooling_tower.jpg)
+![](images/assembly/5d_cooling_tower.jpg)
+![](images/assembly/5e_cooling_tower.jpg)
+![](images/assembly/5f_cooling_tower.jpg)
+![](images/assembly/5g_cooling_tower.jpg)
+![](images/assembly/5h_cooling_tower.jpg)
+![](images/assembly/5i_cooling_tower.jpg)
+![](images/assembly/5j_cooling_tower.jpg)
+![](images/assembly/5k_cooling_tower.jpg)
+![](images/assembly/5l_cooling_tower.jpg)
+![](images/assembly/5m_cooling_tower.jpg)
+![](images/assembly/5n_cooling_tower.jpg)
+![](images/assembly/5o_cooling_tower.jpg)
+
 ## 6. Attach Cooling Tower
 - Glue on the cooling frame
 ![](images/assembly/6a_attach_cooling_tower.jpg) 
