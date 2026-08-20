@@ -100,30 +100,30 @@
 - Attach cables to out connectors of voltage converters 
 ![](images/assembly/4b_cover_upperside.jpg) 
 
-## 5. Attach Cooling Tower
+## 6. Attach Cooling Tower
 - Glue on the cooling frame
-![](images/assembly/5a_cooling_tower.jpg) 
+![](images/assembly/6a_attach_cooling_tower.jpg) 
 - Stick in the cooling tower and fan into the frame
-![](images/assembly/5b_cooling_tower.jpg) 
-![](images/assembly/5c_cooling_tower.jpg) 
+![](images/assembly/6b_attach_cooling_tower.jpg) 
+![](images/assembly/6c_attach_cooling_tower.jpg) 
 
-## 6. Connect Cooling Tower
+## 7. Connect Cooling Tower
 - Connect the cables from the cooling tower with the underside of the cover
   - Heating element
   - 2x Peltier element
   - Light
-![](images/assembly/6a_cover_underside.jpg) 
+![](images/assembly/7a_cover_underside.jpg) 
 
-## 7. Connect Cover to Bottom
+## 8. Connect Cover to Bottom
 - Connect the power and ground connectors of the cover with the WAGO connectors in the bottom
-![](images/assembly/7a_connect_cover_bottom.jpg) 
+![](images/assembly/8a_connect_cover_bottom.jpg) 
 - Stick the 24V power cables through the cover and attach then to the in connectors of the voltage converters
-![](images/assembly/7b_connect_cover_bottom.jpg) 
+![](images/assembly/8b_connect_cover_bottom.jpg) 
 - Put cover on bottom and screw it in place
 
-## 8. Add Heating Element
+## 9. Add Heating Element
 - Stick the heating element om top of the acrylic case
-![](images/assembly/8a_heat_sticker.jpg) 
+![](images/assembly/9a_heat_sticker.jpg) 
 
 
 # Notes
