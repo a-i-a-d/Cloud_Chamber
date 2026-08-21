@@ -9,54 +9,54 @@ https://www.amazon.de/Meanwell-Biltron-Schaltnetzteil-geschlossene-Struktur/dp/B
 
 - 1x CPU Cooler with Fan<br>
 https://www.amazon.de/dp/B0FMRXDHD6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-![cpu-cooler](images/parts/cpu_cooler.jpg)
-![fan](images/parts/fan.jpg)
+<img alt="cpu-cooler" src="images/parts/cpu_cooler.jpg" width="200" height="100">
+<img alt="fan" src="images/parts/fan.jpg" width="200" height="100">
 
 - 1x Peltier 12709<br>
-![peltier-12709](images/parts/peltier_12709.jpg)
+<img alt="peltier-12709" src="images/parts/peltier_12709.jpg" width="200" height="100">
 
 - 1x Peltier 12715<br>
-![peltier-12715](images/parts/peltier_12715.jpg)
+<img alt="peltier-12715" src="images/parts/peltier_12715.jpg" width="200" height="100">
 
 - 1x Low Power Voltage Converter<br>
 https://www.amazon.de/Yizhet-Stromversorgung-Abw%C3%A4rtswandler-Einstellbares-Abw%C3%A4rtsmodul/dp/B0823P6PW6/ref=sr_1_4?th=1
-![low-power-voltage-adjust](images/parts/low_power_voltage_adjust.jpg)
+<img alt="low-power-voltage-adjust" src="images/parts/low_power_voltage_adjust.jpg" width="200" height="100">
 
 - 2x High Power Voltage Converter<br>
 https://www.amazon.de/dp/B09LLPQHCF?ref=ppx_yo2ov_dt_b_fed_asin_title
-![high-power-voltage-adjust](images/parts/high_power_voltage_adjust.jpg)
+<img alt="high-power-voltage-adjust" src="images/parts/high_power_voltage_adjust.jpg" width="200" height="100">
 
 - Copper Plate 5x5x0.3cm<br>
 https://www.amazon.de/dp/B098RTDXQK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-![copper-plate](images/parts/copper_plate.jpg)
+<img alt="copper-plate" src="images/parts/copper_plate.jpg" width="200" height="100">
 
 - Acrylic Case 8x8x8cm<br>
 https://www.amazon.de/Pilikoll-Transparent-Geschenkbox-transparentf%C3%BCr-Aufbewahrung/dp/B0FVSGY3C1/ref=sr_1_1?th=1
-![acrylic-case](images/parts/acrylic_case.jpg)
+<img alt="acrylic-case" src="images/parts/acrylic_case.jpg" width="200" height="100">
 
 - Foam rubber 2mm<br>
 https://www.amazon.de/dp/B07JNZB8X1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-![foam-rubber](images/parts/foam_rubber.jpg)
+<img alt="foam-rubber" src="images/parts/foam_rubber.jpg" width="200" height="100">
 
 - Heating Element<br>
 https://www.amazon.de/dp/B0CTTNP7P9?ref=ppx_yo2ov_dt_b_fed_asin_title
-![heating-element](images/parts/heating_element.jpg)
+<img alt="heating-element" src="images/parts/heating_element.jpg" width="200" height="100">
 
 - Felt and Magnets<br>
 https://www.amazon.de/dp/B00WLSX5QU?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-![felt-magnets](images/parts/felt_magnets.jpg)
+<img alt="felt-magnets" src="images/parts/felt_magnets.jpg" width="200" height="100">
 
 - 12x WAGO Connector 2x<br>
 https://www.amazon.de/Wago-221-412-996-016-Verbindungsklemme-flexibel/dp/B09VZYVWBX/ref=sr_1_3_mod_primary_new
-![wago-2x](images/parts/wago_2x.jpg)
+<img alt="wago-2x" src="images/parts/wago_2x.jpg" width="200" height="100">
 
 - 2x WAGO Connector 5x<br>
 https://www.amazon.de/Wago-221-415-Verbindungsklemme-5-Leiter-Bet%C3%A4tigungshebel/dp/B0107SYYGU/ref=sr_1_1?th=1
-![wago-5x](images/parts/wago_5x.jpg)
+<img alt="wago-5x" src="images/parts/wago_5x.jpg" width="200" height="100">
 
 - 5x Low Power Switches<br>
 https://www.amazon.de/VUNIVERSUM-Kippschalter-Wippschalter-Schalter-Modellbau%C2%AE/dp/B07M5QMXDZ/ref=sr_1_16
-![switch](images/parts/swich.jpg)
+<img alt="switch" src="images/parts/swich.jpg" width="200" height="100">
 
 - LED Spotlights<br>
 https://www.amazon.de/dp/B0F9GCK1NC?ref=ppx_yo2ov_dt_b_fed_asin_title
