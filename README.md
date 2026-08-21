@@ -188,5 +188,7 @@ Schematic of the cooling tower:
 - Stick the heating element om top of the acrylic case
 <img src="images/assembly/9a_heat_sticker.jpg" width="200"> 
 
+## 10. Add lights
+
 
 # Notes
