@@ -3,70 +3,82 @@
 # Parts
 
 ## Buy
-- Power adapter 220V->24V
+- Power adapter 220V->24V<br>
 https://www.amazon.de/Meanwell-Biltron-Schaltnetzteil-geschlossene-Struktur/dp/B07SVH2H3G/ref=sr_1_30
 ![power-adapter](images/parts/power_adapter.jpg)
 
-- 1x CPU Cooler with Fan
+- 1x CPU Cooler with Fan<br>
 https://www.amazon.de/dp/B0FMRXDHD6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 ![cpu-cooler](images/parts/cpu_cooler.jpg)
 ![fan](images/parts/fan.jpg)
 
-- 1x Peltier 12709
+- 1x Peltier 12709<br>
 ![peltier-12709](images/parts/peltier_12709.jpg)
 
-- 1x Peltier 12715 
+- 1x Peltier 12715<br>
 ![peltier-12715](images/parts/peltier_12715.jpg)
 
-- 1x Low Power Voltage Converter
+- 1x Low Power Voltage Converter<br>
+https://www.amazon.de/Yizhet-Stromversorgung-Abw%C3%A4rtswandler-Einstellbares-Abw%C3%A4rtsmodul/dp/B0823P6PW6/ref=sr_1_4?th=1
 ![low-power-voltage-adjust](images/parts/low_power_voltage_adjust.jpg)
 
-- 2x High Power Voltage Converter
+- 2x High Power Voltage Converter<br>
 https://www.amazon.de/dp/B09LLPQHCF?ref=ppx_yo2ov_dt_b_fed_asin_title
 ![high-power-voltage-adjust](images/parts/high_power_voltage_adjust.jpg)
 
-- Copper Plate 5x5x0.3cm
+- Copper Plate 5x5x0.3cm<br>
 https://www.amazon.de/dp/B098RTDXQK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 ![copper-plate](images/parts/copper_plate.jpg)
 
-- Acrylic Case 8x8x8cm 
+- Acrylic Case 8x8x8cm<br>
+https://www.amazon.de/Pilikoll-Transparent-Geschenkbox-transparentf%C3%BCr-Aufbewahrung/dp/B0FVSGY3C1/ref=sr_1_1?th=1
 ![acrylic-case](images/parts/acrylic_case.jpg)
 
-- Foam rubber 2mm
+- Foam rubber 2mm<br>
 https://www.amazon.de/dp/B07JNZB8X1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 ![foam-rubber](images/parts/foam_rubber.jpg)
 
-- Heating Element 
+- Heating Element<br>
 https://www.amazon.de/dp/B0CTTNP7P9?ref=ppx_yo2ov_dt_b_fed_asin_title
 ![heating-element](images/parts/heating_element.jpg)
 
-- Felt and Magnets
+- Felt and Magnets<br>
 https://www.amazon.de/dp/B00WLSX5QU?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 ![felt-magnets](images/parts/felt_magnets.jpg)
 
-- 12x WAGO Connector 2x
+- 12x WAGO Connector 2x<br>
+https://www.amazon.de/Wago-221-412-996-016-Verbindungsklemme-flexibel/dp/B09VZYVWBX/ref=sr_1_3_mod_primary_new
 ![wago-2x](images/parts/wago_2x.jpg)
 
-- 2x WAGO Connector 5x
+- 2x WAGO Connector 5x<br>
+https://www.amazon.de/Wago-221-415-Verbindungsklemme-5-Leiter-Bet%C3%A4tigungshebel/dp/B0107SYYGU/ref=sr_1_1?th=1
 ![wago-5x](images/parts/wago_5x.jpg)
 
-- 5x Low Power Switches
+- 5x Low Power Switches<br>
+https://www.amazon.de/VUNIVERSUM-Kippschalter-Wippschalter-Schalter-Modellbau%C2%AE/dp/B07M5QMXDZ/ref=sr_1_16
 ![switch](images/parts/swich.jpg)
 
-- Voltage Meter
-![voltage-meter](images/parts/voltage_neter.jpg)
-
-- LED Spotlights
+- LED Spotlights<br>
 https://www.amazon.de/dp/B0F9GCK1NC?ref=ppx_yo2ov_dt_b_fed_asin_title
 
-- Heat pads
+- Heat pads<br>
 https://www.amazon.de/dp/B0B3N7184J?ref=ppx_yo2ov_dt_b_fed_asin_title
 
-- Screws
-- Silicone
-- 220V power switch
-- 220V power plug
-- Cables
+- 220V power switch<br>
+https://www.amazon.de/Miratic-Unterbeleuchtet-Kippschalter-Schalter-Versorgungsspannung/dp/B0CRBCK8T4/ref=sr_1_45?th=1
+
+- 220V power plug<br>
+https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF5M677/ref=sr_1_3
+
+- Screws<br>
+
+- Silicone<br>
+
+- Cables<br>
+
+- Voltage Meter - only for adjusting power<br>
+![voltage-meter](images/parts/voltage_neter.jpg)
+
 
 ## Print
 - Case Bottom 
@@ -84,7 +96,7 @@ https://www.amazon.de/dp/B0B3N7184J?ref=ppx_yo2ov_dt_b_fed_asin_title
 - Top Insulation Stencil Peltier
 ![top-insulation-stencil-peltier](images/parts/top_insulation_stencil_peltier.jpg)
 
-# Schematic
+# Power Schematic
 ![schematic](images/schematic/Schematic.jpg)
 
 
