@@ -5,7 +5,7 @@
 ## Buy
 - Power adapter 220V->24V<br>
 https://www.amazon.de/Meanwell-Biltron-Schaltnetzteil-geschlossene-Struktur/dp/B07SVH2H3G/ref=sr_1_30
-![power-adapter](images/parts/power_adapter.jpg | width=100)
+![power-adapter](images/parts/power_adapter.jpg =100x200)
 
 - 1x CPU Cooler with Fan<br>
 https://www.amazon.de/dp/B0FMRXDHD6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
