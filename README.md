@@ -119,11 +119,11 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 
 - Connect a voltage meter to the three low power voltage adapters and adjust them
   - 12V for the fan
-<img src="images/assembly/2a_meassure.jpg" width="200"> 
+<img src="images/assembly/2a_measure.jpg" width="200"> 
   - 3.5V for the heating element
-<img src="images/assembly/2b_meassure.jpg" width="200"> 
+<img src="images/assembly/2b_measure.jpg" width="200"> 
   - 5V or 12Vfor the lighting
-<img src="images/assembly/2c_meassure.jpg" width="200"> 
+<img src="images/assembly/2c_measure.jpg" width="200"> 
 
 ## 3. Cover Under Side
 - Solder cables to the low power switches
