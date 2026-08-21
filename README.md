@@ -5,58 +5,58 @@
 ## Buy
 - Power adapter 220V->24V<br>
 https://www.amazon.de/Meanwell-Biltron-Schaltnetzteil-geschlossene-Struktur/dp/B07SVH2H3G/ref=sr_1_30
-<img alt="power-adapter" src="images/parts/power_adapter.jpg" width="200" height="100">
+<img alt="power-adapter" src="images/parts/power_adapter.jpg" width="200" >
 
 - 1x CPU Cooler with Fan<br>
 https://www.amazon.de/dp/B0FMRXDHD6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-<img alt="cpu-cooler" src="images/parts/cpu_cooler.jpg" width="200" height="100">
-<img alt="fan" src="images/parts/fan.jpg" width="200" height="100">
+<img alt="cpu-cooler" src="images/parts/cpu_cooler.jpg" width="200" >
+<img alt="fan" src="images/parts/fan.jpg" width="200" >
 
 - 1x Peltier 12709<br>
-<img alt="peltier-12709" src="images/parts/peltier_12709.jpg" width="200" height="100">
+<img alt="peltier-12709" src="images/parts/peltier_12709.jpg" width="200" >
 
 - 1x Peltier 12715<br>
-<img alt="peltier-12715" src="images/parts/peltier_12715.jpg" width="200" height="100">
+<img alt="peltier-12715" src="images/parts/peltier_12715.jpg" width="200" >
 
 - 1x Low Power Voltage Converter<br>
 https://www.amazon.de/Yizhet-Stromversorgung-Abw%C3%A4rtswandler-Einstellbares-Abw%C3%A4rtsmodul/dp/B0823P6PW6/ref=sr_1_4?th=1
-<img alt="low-power-voltage-adjust" src="images/parts/low_power_voltage_adjust.jpg" width="200" height="100">
+<img alt="low-power-voltage-adjust" src="images/parts/low_power_voltage_adjust.jpg" width="200" >
 
 - 2x High Power Voltage Converter<br>
 https://www.amazon.de/dp/B09LLPQHCF?ref=ppx_yo2ov_dt_b_fed_asin_title
-<img alt="high-power-voltage-adjust" src="images/parts/high_power_voltage_adjust.jpg" width="200" height="100">
+<img alt="high-power-voltage-adjust" src="images/parts/high_power_voltage_adjust.jpg" width="200" >
 
 - Copper Plate 5x5x0.3cm<br>
 https://www.amazon.de/dp/B098RTDXQK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-<img alt="copper-plate" src="images/parts/copper_plate.jpg" width="200" height="100">
+<img alt="copper-plate" src="images/parts/copper_plate.jpg" width="200" >
 
 - Acrylic Case 8x8x8cm<br>
 https://www.amazon.de/Pilikoll-Transparent-Geschenkbox-transparentf%C3%BCr-Aufbewahrung/dp/B0FVSGY3C1/ref=sr_1_1?th=1
-<img alt="acrylic-case" src="images/parts/acrylic_case.jpg" width="200" height="100">
+<img alt="acrylic-case" src="images/parts/acrylic_case.jpg" width="200" >
 
 - Foam rubber 2mm<br>
 https://www.amazon.de/dp/B07JNZB8X1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-<img alt="foam-rubber" src="images/parts/foam_rubber.jpg" width="200" height="100">
+<img alt="foam-rubber" src="images/parts/foam_rubber.jpg" width="200" >
 
 - Heating Element<br>
 https://www.amazon.de/dp/B0CTTNP7P9?ref=ppx_yo2ov_dt_b_fed_asin_title
-<img alt="heating-element" src="images/parts/heating_element.jpg" width="200" height="100">
+<img alt="heating-element" src="images/parts/heating_element.jpg" width="200" >
 
 - Felt and Magnets<br>
 https://www.amazon.de/dp/B00WLSX5QU?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-<img alt="felt-magnets" src="images/parts/felt_magnets.jpg" width="200" height="100">
+<img alt="felt-magnets" src="images/parts/felt_magnets.jpg" width="200" >
 
 - 12x WAGO Connector 2x<br>
 https://www.amazon.de/Wago-221-412-996-016-Verbindungsklemme-flexibel/dp/B09VZYVWBX/ref=sr_1_3_mod_primary_new
-<img alt="wago-2x" src="images/parts/wago_2x.jpg" width="200" height="100">
+<img alt="wago-2x" src="images/parts/wago_2x.jpg" width="200" >
 
 - 2x WAGO Connector 5x<br>
 https://www.amazon.de/Wago-221-415-Verbindungsklemme-5-Leiter-Bet%C3%A4tigungshebel/dp/B0107SYYGU/ref=sr_1_1?th=1
-<img alt="wago-5x" src="images/parts/wago_5x.jpg" width="200" height="100">
+<img alt="wago-5x" src="images/parts/wago_5x.jpg" width="200" >
 
 - 5x Low Power Switches<br>
 https://www.amazon.de/VUNIVERSUM-Kippschalter-Wippschalter-Schalter-Modellbau%C2%AE/dp/B07M5QMXDZ/ref=sr_1_16
-<img alt="switch" src="images/parts/swich.jpg" width="200" height="100">
+<img alt="switch" src="images/parts/swich.jpg" width="200" >
 
 - LED Spotlights<br>
 https://www.amazon.de/dp/B0F9GCK1NC?ref=ppx_yo2ov_dt_b_fed_asin_title
