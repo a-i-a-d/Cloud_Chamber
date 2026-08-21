@@ -102,6 +102,8 @@
 
 ## 5. Assemble Cooling Tower
 
+Schematic of the cooling tower:
+![schematic](images/schematic/Cooling_tower_schematics.jpg)
 ![](images/assembly/5a_cooling_tower.jpg)
 ![](images/assembly/5b_cooling_tower.jpg)
 ![](images/assembly/5c_cooling_tower.jpg)
