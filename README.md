@@ -1,5 +1,8 @@
 # Peltier based Cloud Chamber
 
+<img alt="" src="images/cloud_chamber_01.jpg" width="400">
+<img alt="" src="images/cloud_chamber_01.jpg" width="400"><br>
+
 This project is the documentation on how I built a Peltier element based cloud chamber. The motivation came from having most of the required parts laying around, and since it works quite well, here are instructions on how it is made. Please note that the Peltier elements I used did not consume the watttage accordings to the specs, so I assume them to be of inferior quality, and therefor will not provide links to where I got them. They do the job, but if they would work according to specs, they should provide even greater cooling. This project was not planned, but rather build as a proof of concept to see if the concept works at all, so there are many things that can be improved or changed, e.g. less glueing. Also, I did not make use of a high voltage field, it did not seem necessary but might be added at some point in the future. Everything is prepared for it (switch, location for power adapter), so it shouldn't be hard to add it.
 
 # Parts
