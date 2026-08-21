@@ -7,58 +7,58 @@ This project is the documentation on how I built a Peltier element based cloud c
 ## Buy
 - Power adapter 220V->24V<br>
 https://www.amazon.de/Meanwell-Biltron-Schaltnetzteil-geschlossene-Struktur/dp/B07SVH2H3G/ref=sr_1_30
-<img alt="power-adapter" src="images/parts/power_adapter.jpg" width="200" >
+<img alt="power-adapter" src="images/parts/power_adapter.jpg" width="200">
 
 - 1x CPU Cooler with Fan<br>
 https://www.amazon.de/dp/B0FMRXDHD6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-<img alt="cpu-cooler" src="images/parts/cpu_cooler.jpg" width="200" >
-<img alt="fan" src="images/parts/fan.jpg" width="200" >
+<img alt="cpu-cooler" src="images/parts/cpu_cooler.jpg" width="200">
+<img alt="fan" src="images/parts/fan.jpg" width="200">
 
 - 1x Peltier 12709<br>
-<img alt="peltier-12709" src="images/parts/peltier_12709.jpg" width="200" >
+<img alt="peltier-12709" src="images/parts/peltier_12709.jpg" width="200">
 
 - 1x Peltier 12715<br>
-<img alt="peltier-12715" src="images/parts/peltier_12715.jpg" width="200" >
+<img alt="peltier-12715" src="images/parts/peltier_12715.jpg" width="200">
 
 - 1x Low Power Voltage Converter<br>
 https://www.amazon.de/Yizhet-Stromversorgung-Abw%C3%A4rtswandler-Einstellbares-Abw%C3%A4rtsmodul/dp/B0823P6PW6/ref=sr_1_4?th=1
-<img alt="low-power-voltage-adjust" src="images/parts/low_power_voltage_adjust.jpg" width="200" >
+<img alt="low-power-voltage-adjust" src="images/parts/low_power_voltage_adjust.jpg" width="200">
 
 - 2x High Power Voltage Converter<br>
 https://www.amazon.de/dp/B09LLPQHCF?ref=ppx_yo2ov_dt_b_fed_asin_title
-<img alt="high-power-voltage-adjust" src="images/parts/high_power_voltage_adjust.jpg" width="200" >
+<img alt="high-power-voltage-adjust" src="images/parts/high_power_voltage_adjust.jpg" width="200">
 
 - Copper Plate 5x5x0.3cm<br>
 https://www.amazon.de/dp/B098RTDXQK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-<img alt="copper-plate" src="images/parts/copper_plate.jpg" width="200" >
+<img alt="copper-plate" src="images/parts/copper_plate.jpg" width="200">
 
 - Acrylic Case 8x8x8cm<br>
 https://www.amazon.de/Pilikoll-Transparent-Geschenkbox-transparentf%C3%BCr-Aufbewahrung/dp/B0FVSGY3C1/ref=sr_1_1?th=1
-<img alt="acrylic-case" src="images/parts/acrylic_case.jpg" width="200" >
+<img alt="acrylic-case" src="images/parts/acrylic_case.jpg" width="200">
 
 - Foam rubber 2mm<br>
 https://www.amazon.de/dp/B07JNZB8X1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-<img alt="foam-rubber" src="images/parts/foam_rubber.jpg" width="200" >
+<img alt="foam-rubber" src="images/parts/foam_rubber.jpg" width="200">
 
 - Heating Element<br>
 https://www.amazon.de/dp/B0CTTNP7P9?ref=ppx_yo2ov_dt_b_fed_asin_title
-<img alt="heating-element" src="images/parts/heating_element.jpg" width="200" >
+<img alt="heating-element" src="images/parts/heating_element.jpg" width="200">
 
 - Felt and Magnets<br>
 https://www.amazon.de/dp/B00WLSX5QU?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-<img alt="felt-magnets" src="images/parts/felt_magnets.jpg" width="200" >
+<img alt="felt-magnets" src="images/parts/felt_magnets.jpg" width="200">
 
 - 12x WAGO Connector 2x<br>
 https://www.amazon.de/Wago-221-412-996-016-Verbindungsklemme-flexibel/dp/B09VZYVWBX/ref=sr_1_3_mod_primary_new
-<img alt="wago-2x" src="images/parts/wago_2x.jpg" width="200" >
+<img alt="wago-2x" src="images/parts/wago_2x.jpg" width="200">
 
 - 2x WAGO Connector 5x<br>
 https://www.amazon.de/Wago-221-415-Verbindungsklemme-5-Leiter-Bet%C3%A4tigungshebel/dp/B0107SYYGU/ref=sr_1_1?th=1
-<img alt="wago-5x" src="images/parts/wago_5x.jpg" width="200" >
+<img alt="wago-5x" src="images/parts/wago_5x.jpg" width="200">
 
 - 5x Low Power Switches<br>
 https://www.amazon.de/VUNIVERSUM-Kippschalter-Wippschalter-Schalter-Modellbau%C2%AE/dp/B07M5QMXDZ/ref=sr_1_16
-<img alt="switch" src="images/parts/swich.jpg" width="200" >
+<img alt="switch" src="images/parts/swich.jpg" width="200">
 
 - LED Spotlights<br>
 https://www.amazon.de/dp/B0F9GCK1NC?ref=ppx_yo2ov_dt_b_fed_asin_title
@@ -79,27 +79,27 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 - Cables<br>
 
 - Voltage Meter - only for adjusting power<br>
-![voltage-meter](images/parts/voltage_neter.jpg)
+<img alt="voltage-meter" src="images/parts/voltage_neter.jpg" width="200">
 
 
 ## Print
 - Case Bottom 
-![case-bottom](images/parts/case_bottom.jpg)
+<img alt="case-bottom" src="images/parts/case_bottom.jpg" width="200">
 - Case Cover
-![case-cover](images/parts/case_cover.jpg)
+<img alt="case-cover" src="images/parts/case_cover.jpg" width="200">
 - Case Cooler Frame
-![case-cooler-frame](images/parts/case_frame_cooler.jpg)
+<img alt="case-cooler-frame" src="images/parts/case_frame_cooler.jpg" width="200">
 - Top Part
-![top-part](images/parts/top_main.jpg)
+<img alt="top-part" src="images/parts/top_main.jpg" width="200">
 - Top Insulation Cover
-![top-insulation-cover](images/parts/top_insulation_cover.jpg)
+<img alt="top-insulation-cover" src="images/parts/top_insulation_cover.jpg" width="200">
 - Top Insulation Stencil Copper 
-![top-insulation-stencil-copper](images/parts/top_insulation_stencil_copper.jpg)
+<img alt="top-insulation-stencil-copper" src="images/parts/top_insulation_stencil_copper.jpg" width="200">
 - Top Insulation Stencil Peltier
-![top-insulation-stencil-peltier](images/parts/top_insulation_stencil_peltier.jpg)
+<img alt="top-insulation-stencil-peltier" src="images/parts/top_insulation_stencil_peltier.jpg" width="200">
 
 # Power Schematic
-![schematic](images/schematic/Schematic.jpg)
+<img alt="schematic" src="images/schematic/Schematic.jpg" width="200">
 
 
 # Assembly
@@ -112,18 +112,18 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 - Glue in 2 WAGO-5x connectors
 - Glue in 6 WAGO-2x connectors
 - Connect all parts with cables
-![](images/assembly/1a_bottom.jpg) 
-![](images/assembly/1b_bottom.jpg) 
+<img src="images/assembly/1a_bottom.jpg" width="200"> 
+<img src="images/assembly/1b_bottom.jpg" width="200"> 
 
 ## 2. Adjust Voltages
 
 - Connect a voltage meter to the three low power voltage adapters and adjust them
   - 12V for the fan
-![](images/assembly/2a_meassure.jpg) 
+<img src="images/assembly/2a_meassure.jpg" width="200"> 
   - 3.5V for the heating element
-![](images/assembly/2b_meassure.jpg) 
+<img src="images/assembly/2b_meassure.jpg" width="200"> 
   - 5V or 12Vfor the lighting
-![](images/assembly/2c_meassure.jpg) 
+<img src="images/assembly/2c_meassure.jpg" width="200"> 
 
 ## 3. Cover Under Side
 - Solder cables to the low power switches
@@ -131,59 +131,59 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 - Glue in 7 WAGO-2x connectors
 - Connect switches with WAGO connectors
 - Insert power cables and voltage meter cables through cover
-![](images/assembly/3a_cover_underside.jpg) 
+<img src="images/assembly/3a_cover_underside.jpg" width="200"> 
 
 ## 4. Cover Upper Side
 - Rotate cover and make sure power and voltage meter cables are available
-![](images/assembly/4a_cover_upperside.jpg) 
+<img src="images/assembly/4a_cover_upperside.jpg" width="200"> 
 - Screw in high power voltage converters
 - Attach cables to out connectors of voltage converters 
-![](images/assembly/4b_cover_upperside.jpg) 
+<img src="images/assembly/4b_cover_upperside.jpg" width="200"> 
 
 ## 5. Assemble Cooling Tower
 
 Schematic of the cooling tower:
-![schematic](images/schematic/Cooling_tower_schematics.jpg)
-![](images/assembly/5a_cooling_tower.jpg)
-![](images/assembly/5b_cooling_tower.jpg)
-![](images/assembly/5c_cooling_tower.jpg)
-![](images/assembly/5d_cooling_tower.jpg)
-![](images/assembly/5e_cooling_tower.jpg)
-![](images/assembly/5f_cooling_tower.jpg)
-![](images/assembly/5g_cooling_tower.jpg)
-![](images/assembly/5h_cooling_tower.jpg)
-![](images/assembly/5i_cooling_tower.jpg)
-![](images/assembly/5j_cooling_tower.jpg)
-![](images/assembly/5k_cooling_tower.jpg)
-![](images/assembly/5l_cooling_tower.jpg)
-![](images/assembly/5m_cooling_tower.jpg)
-![](images/assembly/5n_cooling_tower.jpg)
-![](images/assembly/5o_cooling_tower.jpg)
+<img alt="schematic" src="images/schematic/Cooling_tower_schematics.jpg" width="200">
+<img src="images/assembly/5a_cooling_tower.jpg" width="200">
+<img src="images/assembly/5b_cooling_tower.jpg" width="200">
+<img src="images/assembly/5c_cooling_tower.jpg" width="200">
+<img src="images/assembly/5d_cooling_tower.jpg" width="200">
+<img src="images/assembly/5e_cooling_tower.jpg" width="200">
+<img src="images/assembly/5f_cooling_tower.jpg" width="200">
+<img src="images/assembly/5g_cooling_tower.jpg" width="200">
+<img src="images/assembly/5h_cooling_tower.jpg" width="200">
+<img src="images/assembly/5i_cooling_tower.jpg" width="200">
+<img src="images/assembly/5j_cooling_tower.jpg" width="200">
+<img src="images/assembly/5k_cooling_tower.jpg" width="200">
+<img src="images/assembly/5l_cooling_tower.jpg" width="200">
+<img src="images/assembly/5m_cooling_tower.jpg" width="200">
+<img src="images/assembly/5n_cooling_tower.jpg" width="200">
+<img src="images/assembly/5o_cooling_tower.jpg" width="200">
 
 ## 6. Attach Cooling Tower
 - Glue on the cooling frame
-![](images/assembly/6a_attach_cooling_tower.jpg) 
+<img src="images/assembly/6a_attach_cooling_tower.jpg" width="200"> 
 - Stick in the cooling tower and fan into the frame
-![](images/assembly/6b_attach_cooling_tower.jpg) 
-![](images/assembly/6c_attach_cooling_tower.jpg) 
+<img src="images/assembly/6b_attach_cooling_tower.jpg" width="200"> 
+<img src="images/assembly/6c_attach_cooling_tower.jpg" width="200"> 
 
 ## 7. Connect Cooling Tower
 - Connect the cables from the cooling tower with the underside of the cover
   - Heating element
   - 2x Peltier element
   - Light
-![](images/assembly/7a_cover_underside.jpg) 
+<img src="images/assembly/7a_cover_underside.jpg" width="200"> 
 
 ## 8. Connect Cover to Bottom
 - Connect the power and ground connectors of the cover with the WAGO connectors in the bottom
-![](images/assembly/8a_connect_cover_bottom.jpg) 
+<img src="images/assembly/8a_connect_cover_bottom.jpg" width="200"> 
 - Stick the 24V power cables through the cover and attach then to the in connectors of the voltage converters
-![](images/assembly/8b_connect_cover_bottom.jpg) 
+<img src="images/assembly/8b_connect_cover_bottom.jpg" width="200"> 
 - Put cover on bottom and screw it in place
 
 ## 9. Add Heating Element
 - Stick the heating element om top of the acrylic case
-![](images/assembly/9a_heat_sticker.jpg) 
+<img src="images/assembly/9a_heat_sticker.jpg" width="200"> 
 
 
 # Notes
