@@ -4,38 +4,64 @@
 
 ## Buy
 - Power adapter 220V->24V
+https://www.amazon.de/Meanwell-Biltron-Schaltnetzteil-geschlossene-Struktur/dp/B07SVH2H3G/ref=sr_1_30
 ![power-adapter](images/parts/power_adapter.jpg)
-- CPU Cooler
+
+- 1x CPU Cooler with Fan
+https://www.amazon.de/dp/B0FMRXDHD6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 ![cpu-cooler](images/parts/cpu_cooler.jpg)
-- CPU Fan
 ![fan](images/parts/fan.jpg)
-- Peltier 12709
+
+- 1x Peltier 12709
 ![peltier-12709](images/parts/peltier_12709.jpg)
-- Peltier 12715 
+
+- 1x Peltier 12715 
 ![peltier-12715](images/parts/peltier_12715.jpg)
-- Low Power Voltage Converter
+
+- 1x Low Power Voltage Converter
 ![low-power-voltage-adjust](images/parts/low_power_voltage_adjust.jpg)
-- High Power Voltage Converter
+
+- 2x High Power Voltage Converter
+https://www.amazon.de/dp/B09LLPQHCF?ref=ppx_yo2ov_dt_b_fed_asin_title
 ![high-power-voltage-adjust](images/parts/high_power_voltage_adjust.jpg)
-- Copper Plate 5x5x0.5cm 
+
+- Copper Plate 5x5x0.3cm
+https://www.amazon.de/dp/B098RTDXQK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 ![copper-plate](images/parts/copper_plate.jpg)
+
 - Acrylic Case 8x8x8cm 
 ![acrylic-case](images/parts/acrylic_case.jpg)
+
 - Foam rubber 2mm
+https://www.amazon.de/dp/B07JNZB8X1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 ![foam-rubber](images/parts/foam_rubber.jpg)
+
 - Heating Element 
+https://www.amazon.de/dp/B0CTTNP7P9?ref=ppx_yo2ov_dt_b_fed_asin_title
 ![heating-element](images/parts/heating_element.jpg)
+
 - Felt and Magnets
+https://www.amazon.de/dp/B00WLSX5QU?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 ![felt-magnets](images/parts/felt_magnets.jpg)
+
 - 12x WAGO Connector 2x
 ![wago-2x](images/parts/wago_2x.jpg)
+
 - 2x WAGO Connector 5x
 ![wago-5x](images/parts/wago_5x.jpg)
+
 - 5x Low Power Switches
 ![switch](images/parts/swich.jpg)
+
 - Voltage Meter
 ![voltage-meter](images/parts/voltage_neter.jpg)
-- Heat paste
+
+- LED Spotlights
+https://www.amazon.de/dp/B0F9GCK1NC?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+- Heat pads
+https://www.amazon.de/dp/B0B3N7184J?ref=ppx_yo2ov_dt_b_fed_asin_title
+
 - Screws
 - Silicone
 - 220V power switch
