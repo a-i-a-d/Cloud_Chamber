@@ -72,9 +72,9 @@ All printed parts are openscad code, you can open them with openscad and then di
 | Case Cover | <img alt="case-cover" src="images/parts/case_cover.jpg" width="200"> | [stl](stl/cloud_chamber_power_case-upper.stl) | best printed standing up with support |
 | Case Cooler Frame | <img alt="case-cooler-frame" src="images/parts/case_frame_cooler.jpg" width="200"> | [stl](stl/cloud_chamber_top.stl) | |
 | Top Part | <img alt="top-part" src="images/parts/top_main.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-main_body.stl) | |
-| Top Insulation Cover | <img alt="top-insulation-cover" src="images/parts/top_insulation_cover.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-insulation_top.stl) | |
-| Top Insulation Stencil Copper | <img alt="top-insulation-stencil-copper" src="images/parts/top_insulation_stencil_copper.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-insulation_stencil_coppr.stl) | |
-| Top Insulation Stencil Peltier | <img alt="top-insulation-stencil-peltier" src="images/parts/top_insulation_stencil_peltier.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-insulation_stencil_peltier.stl) | |
+| Top Insulation Cover | <img alt="top-insulation-cover" src="images/parts/top_insulation_cover.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-insulation_top.stl) |  |
+| Top Insulation Stencil Copper | <img alt="top-insulation-stencil-copper" src="images/parts/top_insulation_stencil_copper.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-insulation_stencil_coppr.stl) | optional part, only used as stencil for the insulation |
+| Top Insulation Stencil Peltier | <img alt="top-insulation-stencil-peltier" src="images/parts/top_insulation_stencil_peltier.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-insulation_stencil_peltier.stl) | optional part, only used as stencil for the insulation |
 | Light Connector Box | <img alt="light-connector" src="images/parts/top_light_connector.jpg" width="200"> | [stl](stl/cloud_chamber_light_case.stl) | |
 | LED Carrier | <img alt="led-carrier" src="images/parts/top_led_carrier.jpg" width="200"> | [stl](stl/cloud_chamber_led_carrier.stl) | |
 
