@@ -23,7 +23,7 @@ The total value of the parts is about 250 Euro. Here a list with links.
 | 3x Low Power Voltage Converter | [Amazon](https://www.amazon.de/Yizhet-Stromversorgung-Abw%C3%A4rtswandler-Einstellbares-Abw%C3%A4rtsmodul/dp/B0823P6PW6/ref=sr_1_4?th=1) | <img alt="low-power-voltage-adjust" src="images/parts/low_power_voltage_adjust.jpg" width="200"> |  |
 | 2x High Power Voltage Converter | [Amazon](https://www.amazon.de/dp/B09LLPQHCF?ref=ppx_yo2ov_dt_b_fed_asin_title) | <img alt="high-power-voltage-adjust" src="images/parts/high_power_voltage_adjust.jpg" width="200"> |  |
 | 2x simple voltage meters | [Amazon](https://www.amazon.de/dp/B082ZLRY1Y?th=1) | <img alt="voltage meter" src="images/parts/voltage_meter.jpg" width="200"> |  |
-| Copper Plate 5x5x0.3cm | [Amazon](https://www.amazon.de/dp/B098RTDXQK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) | <img alt="copper-plate" src="images/parts/copper_plate.jpg" width="200"> |  |
+| Copper Plate 5x5x0.3cm | [Amazon](https://www.amazon.de/dp/B098RTDXQK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) | <img alt="copper-plate" src="images/parts/copper_plate.jpg" width="200"> | The image is not of the actual part, but a thinner plate |
 | Acrylic Case 8x8x8cm | [Amazon](https://www.amazon.de/Pilikoll-Transparent-Geschenkbox-transparentf%C3%BCr-Aufbewahrung/dp/B0FVSGY3C1/ref=sr_1_1?th=1) | <img alt="acrylic-case" src="images/parts/acrylic_case.jpg" width="200"> |  |
 | Foam rubber 2mm | [Amazon](https://www.amazon.de/dp/B07JNZB8X1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) | <img alt="foam-rubber" src="images/parts/foam_rubber.jpg" width="200"> |  |
 | Heating Element | [Amazon](https://www.amazon.de/dp/B0CTTNP7P9?ref=ppx_yo2ov_dt_b_fed_asin_title) | <img alt="heating-element" src="images/parts/heating_element.jpg" width="200"> |  |
