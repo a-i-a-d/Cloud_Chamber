@@ -44,7 +44,7 @@ The total value of the parts is about 250 Euro. Here a list with links.
 | 2x WAGO Connector 5x | [Amazon](https://www.amazon.de/Wago-221-415-Verbindungsklemme-5-Leiter-Bet%C3%A4tigungshebel/dp/B0107SYYGU/ref=sr_1_1?th=1) | <img alt="wago-5x" src="images/parts/wago_5x.jpg" width="200"> |  |
 | 5x Low Power Switches | [Amazon](https://www.amazon.de/VUNIVERSUM-Kippschalter-Wippschalter-Schalter-Modellbau%C2%AE/dp/B07M5QMXDZ/ref=sr_1_16) | <img alt="switch" src="images/parts/switch.jpg" width="200"> |  |
 | LED Spotlights | [Amazon](https://www.amazon.de/dp/B0F9GCK1NC?ref=ppx_yo2ov_dt_b_fed_asin_title) |  |  |
-| Heat pads | [Amazon](https://www.amazon.de/dp/B0B3N7184J?ref=ppx_yo2ov_dt_b_fed_asin_title) |  |  |
+| Thermal pads | [Amazon](https://www.amazon.de/dp/B0B3N7184J?ref=ppx_yo2ov_dt_b_fed_asin_title) |  |  |
 | 220V power switch | [Amazon](https://www.amazon.de/Miratic-Unterbeleuchtet-Kippschalter-Schalter-Versorgungsspannung/dp/B0CRBCK8T4/ref=sr_1_45?th=1) |  |  |
 | 220V power socket | [Amazon](https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF5M677/ref=sr_1_3) |  |  |
 | 6x Insulated flat connectors | | | |
