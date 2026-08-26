@@ -12,6 +12,7 @@ This project is the documentation on how I built a Peltier element based cloud c
 - The Peltier elements I used did not consume the wattage accordings to the specs, so I assume them to be of inferior quality, and therefor will not provide links to where I got them. They do the job, but if they would work according to specs, they should provide even greater cooling.
 - This project was not planned, but rather build as a proof of concept to see if the concept works at all, so there are many things that can be improved or changed, e.g. less glueing.
 - I did not make use of a high voltage field, it did not seem necessary but might be added at some point in the future. Everything is prepared for it (switch, location for power adapter), so it shouldn't be hard to add it.
+- Pictures in this document were taken at different build stages and might not be fully accurate, since I added e.g. the light part later on.
 
 # Parts
 
