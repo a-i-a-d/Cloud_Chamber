@@ -109,6 +109,10 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 <img alt="top-insulation-stencil-copper" src="images/parts/top_insulation_stencil_copper.jpg" width="200">
 - Top Insulation Stencil Peltier
 <img alt="top-insulation-stencil-peltier" src="images/parts/top_insulation_stencil_peltier.jpg" width="200">
+- Light Connector Box
+<img alt="light-connector" src="images/parts/top_light_connector.jpg" width="200">
+- LED Carrier
+<img alt="led-carrier" src="images/parts/top_led_carrier.jpg" width="200">
 
 ## Other things required
 
