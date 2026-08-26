@@ -58,6 +58,8 @@ The total value of the parts is about 250 Euro. Here a list with links.
 | x Screws 2.5x5mm |  |  |  |
 | 8x screw inserts M3x5x5 |  |  |  |
 | Silicone |  |  |  |
+| Black spray paint |  |  |  |
+| Super glue |  |  |  |
 
 
 ## To be printed
