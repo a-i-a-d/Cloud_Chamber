@@ -10,7 +10,7 @@ This project is the documentation on how I built a Peltier element based cloud c
 ## To be bought
 
 I had some parts laying around, but for the sake of completeness, I created a list with all parts and their price in Aug 2026 on Amazon.
-The total value of the parts is 233.11 Euro, without Peltier Elements. Here a list with links.
+The total value of the parts is about 250 Euro. Here a list with links.
 
 - Power adapter 220V->24V<br>
 https://www.amazon.de/Meanwell-Biltron-Schaltnetzteil-geschlossene-Struktur/dp/B07SVH2H3G/ref=sr_1_30
