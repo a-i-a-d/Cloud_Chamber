@@ -91,7 +91,7 @@ Once all parts are printed, the assembly is pretty much straight forward.
 
 ## 1. Bottom
 
-Note: all connections with the 220V->24V voltage adapter have to be done with cable lugs. Don't screw in cables directly!
+__Note__: all connections with the 220V->24V voltage adapter have to be done with cable lugs. Don't screw in cables directly!
 
 1.1 Prepare case
 - insert the screw inserts into the screw holes of the bottom part of the case with a hot soldering iron.
