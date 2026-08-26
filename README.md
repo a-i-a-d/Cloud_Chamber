@@ -113,8 +113,6 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 ## Other things required
 
 - Voltage Meter - for adjusting the voltages<br>
-<img alt="voltage-meter" src="images/parts/voltage_neter.jpg" width="200">
-
 - Soldering Iron, for soldering cables to the low power adapters, plugs and switches.
 
 
