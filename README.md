@@ -48,8 +48,10 @@ The total value of the parts is about 250 Euro. Here a list with links.
 | 220V power switch | [Amazon](https://www.amazon.de/Miratic-Unterbeleuchtet-Kippschalter-Schalter-Versorgungsspannung/dp/B0CRBCK8T4/ref=sr_1_45?th=1) |  |  |
 | 220V power socket | [Amazon](https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF5M677/ref=sr_1_3) |  |  |
 | 6x Insulated flat connectors | | | |
-| AWG 16 Cable |  |  |  |
-| AWG 20 Cable |  |  |  |
+| AWG 10 cable |  |  |  |
+| AWG 16 cable |  |  |  |
+| AWG 16 cable lugs |  |  |  |
+| Insulated flat connectors |  |  |  |
 | 4 Screws 4x8mm |  |  |  |
 | x Screws 3x8mm |  |  |  |
 | x Screws 2x4mm |  |  |  |
@@ -87,15 +89,32 @@ Once all parts are printed, the assembly is pretty much straight forward.
 
 ## 1. Bottom
 
+Note: all connections with the 220V->24V voltage adapter have to be done with cable lugs. Don't screw in cables directly!
+
+1.1 Connect voltage adapter with 220V switch and socket
 - Screw the 220V socket into the case
 - Insert the 220V switch into the case
 - Screw the power adapter into the bottom of the case with 4x8 mm screws from below
-- Connect N, L from the 220V socket to the 220V switch using insulated flat connectors and AWG 16 cabales
+- Connect N (blue) and L (black) from the 220V socket to the 220V switch using insulated flat connectors and AWG 16 cables
+- Connect N (blue) and L (black) from the 220V switch to the N and L connection on the 220V voltage adapter using insulated flat connectors and AWG 16 cables
+- Connect E from the 220V socket to the E connection on the 220V voltage adapter using insulated flat connectors and a green-yellow AWG 16 cable
 
+1.2 Add cables for later connection to 24V->3-12V adapters
+- Connect 2 (red) AWG 16 cables for the Peltier elements to the +24V connectors of the 220V voltage adapter and let them hang lose for now
+- Connect 2 (black) AWG 16 cables for the Peltier elements to the GND connectors of the 220V voltage adapter and let them hang lose for now
+
+1.3 Install low power adapters
+
+- Glue in 2 WAGO-5x connectors, one for +12V and one for GND connections
+- Connect the remaining +24V connection of the 220V voltage adapter to one 5xWAGO connector with a (red) AWG16 cable
+- Connect the remaining GND connection of the 220V voltage adapter to the other 5xWAGO connector with a (black) AWG16 cable
+- Solder (red and black) AWG10 cables to the low power adapter input and output connections.
 - Screw in the 3 low power voltage adapter
-- Glue in 2 WAGO-5x connectors
-- Glue in 6 WAGO-2x connectors
-- Connect all parts with cables
+- Attach the +V input side of the low power adapters with the 5xWAGO connector that is connected to the 24V+ connection of the 220V voltage adapter
+- Attach the GND input side of the low power adapters with the 5xWAGO connector that is connected to the GND connection of the 220V voltage adapter
+- Glue in 6 2xWAGO connectors on the side of the case
+- Connect the 3 V+ and 3 GND output of the low voltage adapters with the the 6 2xWAGO connectors (one connection per WAGO)
+
 <img src="images/assembly/1a_bottom.jpg" width="200"> 
 <img src="images/assembly/1b_bottom.jpg" width="200"> 
 
