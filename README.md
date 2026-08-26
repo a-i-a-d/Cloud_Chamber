@@ -73,7 +73,7 @@ https://www.amazon.de/Wago-221-415-Verbindungsklemme-5-Leiter-Bet%C3%A4tigungshe
 
 - 5x Low Power Switches<br>
 https://www.amazon.de/VUNIVERSUM-Kippschalter-Wippschalter-Schalter-Modellbau%C2%AE/dp/B07M5QMXDZ/ref=sr_1_16
-<img alt="switch" src="images/parts/swich.jpg" width="200">
+<img alt="switch" src="images/parts/switch.jpg" width="200">
 
 - LED Spotlights<br>
 https://www.amazon.de/dp/B0F9GCK1NC?ref=ppx_yo2ov_dt_b_fed_asin_title
