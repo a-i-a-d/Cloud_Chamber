@@ -7,6 +7,10 @@
 
 This project is the documentation on how I built a Peltier element based cloud chamber. The motivation came from having most of the required parts laying around, and since it works quite well, here are instructions on how it is made.
 
+## WARNING
+
+__This project requires to work with 220V, which can be deadly. Do not attempt to build it if you are not familiar with dealng with mains voltage!__
+
 ## Important Notes
 
 - The Peltier elements I used did not consume the wattage accordings to the specs, so I assume them to be of inferior quality, and therefor will not provide links to where I got them. They do the job, but if they would work according to specs, they should provide even greater cooling.
