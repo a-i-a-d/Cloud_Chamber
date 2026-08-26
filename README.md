@@ -39,33 +39,20 @@ The total value of the parts is about 250 Euro. Here a list with links.
 | Cables |  |  |  |
 
 
-## To be printed 
-- Case Bottom<br> 
-<img alt="case-bottom" src="images/parts/case_bottom.jpg" width="200">
+## To be printed
 
-- Case Cover<br>
-<img alt="case-cover" src="images/parts/case_cover.jpg" width="200">
+| Part | Image | Notes |
+|------|-------|-------|
+| Case Bottom | <img alt="case-bottom" src="images/parts/case_bottom.jpg" width="200"> | |
+| Case Cover | <img alt="case-cover" src="images/parts/case_cover.jpg" width="200"> | |
+| Case Cooler Frame | <img alt="case-cooler-frame" src="images/parts/case_frame_cooler.jpg" width="200"> | |
+| Top Part | <img alt="top-part" src="images/parts/top_main.jpg" width="200"> | |
+| Top Insulation Cover | <img alt="top-insulation-cover" src="images/parts/top_insulation_cover.jpg" width="200"> | |
+| Top Insulation Stencil Copper | <img alt="top-insulation-stencil-copper" src="images/parts/top_insulation_stencil_copper.jpg" width="200"> | |
+| Top Insulation Stencil Peltier | <img alt="top-insulation-stencil-peltier" src="images/parts/top_insulation_stencil_peltier.jpg" width="200"> | |
+| Light Connector Box | <img alt="light-connector" src="images/parts/top_light_connector.jpg" width="200"> | |
+| LED Carrier | <img alt="led-carrier" src="images/parts/top_led_carrier.jpg" width="200"> | |
 
-- Case Cooler Frame<br>
-<img alt="case-cooler-frame" src="images/parts/case_frame_cooler.jpg" width="200">
-
-- Top Part<br>
-<img alt="top-part" src="images/parts/top_main.jpg" width="200">
-
-- Top Insulation Cover<br>
-<img alt="top-insulation-cover" src="images/parts/top_insulation_cover.jpg" width="200">
-
-- Top Insulation Stencil Copper<br>
-<img alt="top-insulation-stencil-copper" src="images/parts/top_insulation_stencil_copper.jpg" width="200">
-
-- Top Insulation Stencil Peltier<br>
-<img alt="top-insulation-stencil-peltier" src="images/parts/top_insulation_stencil_peltier.jpg" width="200">
-
-- Light Connector Box<br>
-<img alt="light-connector" src="images/parts/top_light_connector.jpg" width="200">
-
-- LED Carrier<br>
-<img alt="led-carrier" src="images/parts/top_led_carrier.jpg" width="200">
 
 ## Other things required
 
