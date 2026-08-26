@@ -95,23 +95,23 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 
 
 ## To be printed 
-- Case Bottom 
+- Case Bottom<br> 
 <img alt="case-bottom" src="images/parts/case_bottom.jpg" width="200">
-- Case Cover
+- Case Cover<br>
 <img alt="case-cover" src="images/parts/case_cover.jpg" width="200">
-- Case Cooler Frame
+- Case Cooler Frame<br>
 <img alt="case-cooler-frame" src="images/parts/case_frame_cooler.jpg" width="200">
-- Top Part
+- Top Part<br>
 <img alt="top-part" src="images/parts/top_main.jpg" width="200">
-- Top Insulation Cover
+- Top Insulation Cover<br>
 <img alt="top-insulation-cover" src="images/parts/top_insulation_cover.jpg" width="200">
-- Top Insulation Stencil Copper 
+- Top Insulation Stencil Copper<br>
 <img alt="top-insulation-stencil-copper" src="images/parts/top_insulation_stencil_copper.jpg" width="200">
-- Top Insulation Stencil Peltier
+- Top Insulation Stencil Peltier<br>
 <img alt="top-insulation-stencil-peltier" src="images/parts/top_insulation_stencil_peltier.jpg" width="200">
-- Light Connector Box
+- Light Connector Box<br>
 <img alt="light-connector" src="images/parts/top_light_connector.jpg" width="200">
-- LED Carrier
+- LED Carrier<br>
 <img alt="led-carrier" src="images/parts/top_led_carrier.jpg" width="200">
 
 ## Other things required
