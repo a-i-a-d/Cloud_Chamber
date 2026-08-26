@@ -69,7 +69,7 @@ The total value of the parts is about 250 Euro. Here a list with links.
 
 
 # Power Schematic
-A simple diagram showing how everything gets connected. There is not much going on but voltage getting adjusted for different parts.
+A simple diagram showing how everything gets connected. There is not much going on but voltage getting adjusted for different parts.<br>
 <img alt="schematic" src="images/schematic/Schematic.jpg" width="600">
 
 
