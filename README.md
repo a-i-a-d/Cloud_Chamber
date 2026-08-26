@@ -64,10 +64,12 @@ The total value of the parts is about 250 Euro. Here a list with links.
 
 ## To be printed
 
+All printed parts are openscad code, you can open them with openscad and then directly change variables at the beginning to adjust the screw diameter or part dimensions. Please note that I haven't tested changing them, so this might result in non printable models.
+
 | Part | Image |   Link   | Notes | 
 |------|-------|----------|-------|
-| Case Bottom | <img alt="case-bottom" src="images/parts/case_bottom.jpg" width="200"> | [stl](/stl/cloud_chamber_power_case-lower.stl) | |
-| Case Cover | <img alt="case-cover" src="images/parts/case_cover.jpg" width="200"> | [stl](stl/cloud_chamber_power_case-upper.stl) | |
+| Case Bottom | <img alt="case-bottom" src="images/parts/case_bottom.jpg" width="200"> | [stl](/stl/cloud_chamber_power_case-lower.stl) | best printed standing up with support |
+| Case Cover | <img alt="case-cover" src="images/parts/case_cover.jpg" width="200"> | [stl](stl/cloud_chamber_power_case-upper.stl) | best printed standing up with support |
 | Case Cooler Frame | <img alt="case-cooler-frame" src="images/parts/case_frame_cooler.jpg" width="200"> | [stl](stl/cloud_chamber_top.stl) | |
 | Top Part | <img alt="top-part" src="images/parts/top_main.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-main_body.stl) | |
 | Top Insulation Cover | <img alt="top-insulation-cover" src="images/parts/top_insulation_cover.jpg" width="200"> | [stl](stl/cloud_chamber_cooling_plate-insulation_top.stl) | |
