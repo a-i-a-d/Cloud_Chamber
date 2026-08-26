@@ -42,9 +42,13 @@ The total value of the parts is about 250 Euro. Here a list with links.
 | Heat pads | [Amazon](https://www.amazon.de/dp/B0B3N7184J?ref=ppx_yo2ov_dt_b_fed_asin_title) |  |  |
 | 220V power switch | [Amazon](https://www.amazon.de/Miratic-Unterbeleuchtet-Kippschalter-Schalter-Versorgungsspannung/dp/B0CRBCK8T4/ref=sr_1_45?th=1) |  |  |
 | 220V power socket | [Amazon](https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF5M677/ref=sr_1_3) |  |  |
-| Screws |  |  |  |
+| 6x Insulated flat connectors | | | |
+| AWG 16 Cable |  |  |  |
+| AWG 20 Cable |  |  |  |
+| 4 Screws 4x8mm |  |  |  |
+| x Screws 3x8mm |  |  |  |
+| x Screws 2x4mm |  |  |  |
 | Silicone |  |  |  |
-| Cables |  |  |  |
 
 
 ## To be printed
@@ -78,8 +82,11 @@ Once all parts are printed, the assembly is pretty much straight forward.
 
 ## 1. Bottom
 
-- Install the 220V plug and switch
-- Screw in the power adapter in the bottom of the case
+- Screw the 220V socket into the case
+- Insert the 220V switch into the case
+- Screw the power adapter into the bottom of the case with 4x8 mm screws from below
+- Connect N, L from the 220V socket to the 220V switch using insulated flat connectors and AWG 16 cabales
+
 - Screw in the 3 low power voltage adapter
 - Glue in 2 WAGO-5x connectors
 - Glue in 6 WAGO-2x connectors
