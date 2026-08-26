@@ -136,7 +136,7 @@ __WARNING:__ You have to connect the system to mains and switch it on for this s
 |---------|-------|
 | 12V for the fan | <img src="images/assembly/2a_measure.jpg" width="500"> |
 | 3.5V for the heating element | <img src="images/assembly/2b_measure.jpg" width="500"> |
-| 3V, 5V or 12V for the LED lighting | <img src="images/assembly/2c_measure.jpg" width="500"> |
+| 3V, 5V or 12V for the LED lighting (For the LED lights linked in the parts list above, please use 3V. The picture was taking before that was installed) | <img src="images/assembly/2c_measure.jpg" width="500"> |
 
 ## 3. Cover Under Side
 - Solder cables to the low power switches
