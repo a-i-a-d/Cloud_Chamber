@@ -55,6 +55,8 @@ The total value of the parts is about 250 Euro. Here a list with links.
 | 4 Screws 4x8mm |  |  |  |
 | x Screws 3x8mm |  |  |  |
 | x Screws 2x4mm |  |  |  |
+| x Screws 2.5x5mm |  |  |  |
+| 8x screw inserts M3x5x5 |  |  |  |
 | Silicone |  |  |  |
 
 
@@ -91,7 +93,10 @@ Once all parts are printed, the assembly is pretty much straight forward.
 
 Note: all connections with the 220V->24V voltage adapter have to be done with cable lugs. Don't screw in cables directly!
 
-1.1 Connect voltage adapter with 220V switch and socket
+1.1 Prepare case
+- insert the screw inserts into the screw holes of the bottom part of the case with a hot soldering iron.
+
+1.2 Connect voltage adapter with 220V switch and socket
 - Screw the 220V socket into the case
 - Insert the 220V switch into the case
 - Screw the power adapter into the bottom of the case with 4x8 mm screws from below
@@ -100,11 +105,11 @@ Note: all connections with the 220V->24V voltage adapter have to be done with ca
 - Connect E from the 220V socket to the E connection on the 220V voltage adapter using insulated flat connectors and a green-yellow AWG 16 cable
 <img src="images/assembly/1a_bottom_annotated.jpg" width="800"> 
 
-1.2 Add cables for later connection to 24V->3-12V adapters
+1.3 Add cables for later connection to 24V->3-12V adapters
 - Connect 2 (red) AWG 16 cables for the Peltier elements to one of the +24V connectors of the 220V voltage adapter and let them hang lose for now
 - Connect 2 (black) AWG 16 cables for the Peltier elements to one of the GND connectors of the 220V voltage adapter and let them hang lose for now
 
-1.3 Install low power adapters
+1.4 Install low power adapters
 
 - Glue 2 WAGO-5x connectors onto the square field, one for +12V and one for GND connections
 - Connect the remaining +24V connection of the 220V voltage adapter to one 5xWAGO connector with a (red) AWG16 cable
@@ -114,7 +119,7 @@ Note: all connections with the 220V->24V voltage adapter have to be done with ca
 - Attach the +V input side of the low power adapters with the 5xWAGO connector that is connected to the 24V+ connection of the 220V voltage adapter
 - Attach the GND input side of the low power adapters with the 5xWAGO connector that is connected to the GND connection of the 220V voltage adapter
 - Glue 6 2xWAGO connectors onto the side of the case
-- Connect the 3 V+ and 3 GND output cables of the low voltage adapters with the the 6 2xWAGO connectors (one connection per WAGO)
+- Connect the three V+ and three GND output cables of the low voltage adapters with the the 6 2xWAGO connectors (one connection per WAGO)
 <img src="images/assembly/1b_bottom_annotated.jpg" width="800"> 
 
 ## 2. Adjust Voltages
