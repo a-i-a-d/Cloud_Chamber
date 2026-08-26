@@ -119,13 +119,13 @@ Note: all connections with the 220V->24V voltage adapter have to be done with ca
 
 ## 2. Adjust Voltages
 
-- Connect a voltage meter to the three low power voltage adapters and adjust them
-  - 12V for the fan
-<img src="images/assembly/2a_measure.jpg" width="200"> 
-  - 3.5V for the heating element
-<img src="images/assembly/2b_measure.jpg" width="200"> 
-  - 5V or 12V for the lighting
-<img src="images/assembly/2c_measure.jpg" width="200"> 
+- Connect a voltage meter to the 2x WAGO adapters and adjust the output voltage of the three low voltage adapters
+
+| Voltage | Image |
+|---------|-------|
+| 12V for the fan | <img src="images/assembly/2a_measure.jpg" width="200"> |
+| 3.5V for the heating element | <img src="images/assembly/2b_measure.jpg" width="200"> |
+| 3V, 5V or 12V for the LED lighting | <img src="images/assembly/2c_measure.jpg" width="200"> |
 
 ## 3. Cover Under Side
 - Solder cables to the low power switches
