@@ -7,7 +7,11 @@ This project is the documentation on how I built a Peltier element based cloud c
 
 # Parts
 
-## Buy
+## To be bought
+
+I had some parts laying around, but for the sake of completeness, I created a list with all parts and their price in Aug 2026 on Amazon.
+The total value of the parts is 226.12 Euro, without Peltier Elements. Here a list with links.
+
 - Power adapter 220V->24V<br>
 https://www.amazon.de/Meanwell-Biltron-Schaltnetzteil-geschlossene-Struktur/dp/B07SVH2H3G/ref=sr_1_30
 <img alt="power-adapter" src="images/parts/power_adapter.jpg" width="200">
@@ -23,13 +27,17 @@ https://www.amazon.de/dp/B0FMRXDHD6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 - 1x Peltier 12715<br>
 <img alt="peltier-12715" src="images/parts/peltier_12715.jpg" width="200">
 
-- 1x Low Power Voltage Converter<br>
+- 3x Low Power Voltage Converter<br>
 https://www.amazon.de/Yizhet-Stromversorgung-Abw%C3%A4rtswandler-Einstellbares-Abw%C3%A4rtsmodul/dp/B0823P6PW6/ref=sr_1_4?th=1
 <img alt="low-power-voltage-adjust" src="images/parts/low_power_voltage_adjust.jpg" width="200">
 
 - 2x High Power Voltage Converter<br>
 https://www.amazon.de/dp/B09LLPQHCF?ref=ppx_yo2ov_dt_b_fed_asin_title
 <img alt="high-power-voltage-adjust" src="images/parts/high_power_voltage_adjust.jpg" width="200">
+
+- 2x simple voltage meters<br>
+
+<img alt="voltage meter" src="" width="200">
 
 - Copper Plate 5x5x0.3cm<br>
 https://www.amazon.de/dp/B098RTDXQK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
@@ -47,8 +55,12 @@ https://www.amazon.de/dp/B07JNZB8X1?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 https://www.amazon.de/dp/B0CTTNP7P9?ref=ppx_yo2ov_dt_b_fed_asin_title
 <img alt="heating-element" src="images/parts/heating_element.jpg" width="200">
 
-- Felt and Magnets<br>
+- Felt<br>
 https://www.amazon.de/dp/B00WLSX5QU?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+<img alt="felt-magnets" src="images/parts/felt_magnets.jpg" width="200">
+
+- Magnets<br>
+https://www.amazon.de/-/en/Wukong-Neodymium-Suitable-Whiteboards-Creative/dp/B0CP3N6QV3/ref=sr_1_36
 <img alt="felt-magnets" src="images/parts/felt_magnets.jpg" width="200">
 
 - 12x WAGO Connector 2x<br>
@@ -81,11 +93,8 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 
 - Cables<br>
 
-- Voltage Meter - only for adjusting power<br>
-<img alt="voltage-meter" src="images/parts/voltage_neter.jpg" width="200">
 
-
-## Print
+## To be printed 
 - Case Bottom 
 <img alt="case-bottom" src="images/parts/case_bottom.jpg" width="200">
 - Case Cover
@@ -101,11 +110,21 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 - Top Insulation Stencil Peltier
 <img alt="top-insulation-stencil-peltier" src="images/parts/top_insulation_stencil_peltier.jpg" width="200">
 
+## Other things required
+
+- Voltage Meter - for adjusting the voltages<br>
+<img alt="voltage-meter" src="images/parts/voltage_neter.jpg" width="200">
+
+- Soldering Iron, for soldering cables to the low power adapters, plugs and switches.
+
+
 # Power Schematic
+A simple diagram showing how everything gets connected. There is not much going on but voltage getting adjusted for different parts.
 <img alt="schematic" src="images/schematic/Schematic.jpg" width="200">
 
 
 # Assembly
+Once all parts are printed, the assembly is pretty much straight forward.
 
 ## 1. Bottom
 
@@ -125,7 +144,7 @@ https://www.amazon.de/PNGKNYOCN-IEC320-Stecker-Adapter-Sicherungshalter/dp/B0BWF
 <img src="images/assembly/2a_measure.jpg" width="200"> 
   - 3.5V for the heating element
 <img src="images/assembly/2b_measure.jpg" width="200"> 
-  - 5V or 12Vfor the lighting
+  - 5V or 12V for the lighting
 <img src="images/assembly/2c_measure.jpg" width="200"> 
 
 ## 3. Cover Under Side
