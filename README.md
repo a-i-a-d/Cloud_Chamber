@@ -9,7 +9,7 @@ This project is the documentation on how I built a Peltier element based cloud c
 
 ## WARNING
 
-__This project requires to work with 220V, which can be deadly. Do not attempt to build it if you are not familiar with dealng with mains voltage!__
+__This project requires to work with 220V, which can be deadly. Do not attempt to build it if you are not familiar in dealng with mains voltage!__
 
 ## Important Notes
 
