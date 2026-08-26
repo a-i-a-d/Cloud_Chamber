@@ -70,7 +70,7 @@ The total value of the parts is about 250 Euro. Here a list with links.
 
 # Power Schematic
 A simple diagram showing how everything gets connected. There is not much going on but voltage getting adjusted for different parts.
-<img alt="schematic" src="images/schematic/Schematic.jpg" width="200">
+<img alt="schematic" src="images/schematic/Schematic.jpg" width="600">
 
 
 # Assembly
@@ -115,7 +115,7 @@ Once all parts are printed, the assembly is pretty much straight forward.
 ## 5. Assemble Cooling Tower
 
 Schematic of the cooling tower:
-<img alt="schematic" src="images/schematic/Cooling_tower_schematics.jpg" width="200">
+<img alt="schematic" src="images/schematic/Cooling_tower_schematics.jpg" width="500">
 <img src="images/assembly/5a_cooling_tower.jpg" width="200">
 <img src="images/assembly/5b_cooling_tower.jpg" width="200">
 <img src="images/assembly/5c_cooling_tower.jpg" width="200">
