@@ -184,7 +184,7 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 
 | Instruction | Image |
 |-------------|-------|
-| Stick the heating element on top of the acrylic case | <img src="images/assembly/9a_heat_sticker.jpg" width="400"> | 
+| - Stick the heating element on top of the acrylic case | <img src="images/assembly/9a_heat_sticker.jpg" width="400"> | 
 
 ## 7. Add lights
 
