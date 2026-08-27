@@ -54,6 +54,7 @@ The total value of the parts is about 250 Euro. Here a list with links.
 | Insulated flat connectors |  |  |  |
 | 4 Screws 4x8mm |  |  |  |
 | x Screws 3x8mm |  |  |  |
+| x Screws 3x12mm |  |  |  |
 | x Screws 2x4mm |  |  |  |
 | x Screws 2.5x5mm |  |  |  |
 | 8x screw inserts M3x5x5 |  |  |  |
@@ -151,7 +152,7 @@ __WARNING:__ You have to connect the system to mains and switch it on for this s
 | Instruction | Image |
 |-------------|-------|
 | - Rotate cover and make sure power and voltage meter cables are available | <img src="images/assembly/4a_cover_upperside.jpg" width="400"> |
-| - Screw in high power voltage converters<br> - Attach cables to out connectors of voltage converters | <img src="images/assembly/4b_cover_upperside.jpg" width="400"> |
+| - Screw in high power voltage converters using 3x12mm screws<br> - Screw in cables into the out connectors of the voltage converters | <img src="images/assembly/4b_cover_upperside.jpg" width="400"> |
 
 ## 5. Assemble Cooling Tower
 
