@@ -185,7 +185,7 @@ The cooling tower consists of the copper plate on top of 2 stacked Peltier eleme
 
 __Note:__ Usual the side with the printing is the cooling side of the Peltier elements. But double check if that is true for the ones you use.
 
-| Instruction | Image |
+| Instruction | <div style="width:400px">Image</div> |
 |-------------|-------|
 | Overview of used parts for the top | <img src="images/assembly/5a_cooling_tower.jpg" width="400"> |
 | - Use the stencils to mark cutout from the foam rubber | <img src="images/assembly/5b_cooling_tower.jpg" width="400"> |
