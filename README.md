@@ -167,7 +167,7 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 | - Use the stencils to mark cutout from the foam rubber | <img src="images/assembly/5b_cooling_tower.jpg" width="400"> |
 | - Create two cutouts for the peltier elements and one for the copper plate  | <img src="images/assembly/5c_cooling_tower.jpg" width="400"> |
 | - Put silicone into the indentation in the top main part | <img src="images/assembly/5d_cooling_tower_annotated.png" width="400"> |
-| - Glue in the copper plate.<br> __Make sure there are no gaps, the silicone acts as insulation and to prevent liquid from leaking out from the cloud chamber__ | <img src="images/assembly/5e_cooling_tower.jpg" width="400"> |
+| - Glue in the copper plate.<br> __Make sure there are no gaps, the silicone acts as insulation and to prevent liquid from leaking out from the cloud chamber__<br> -Let it fully cure before continuing<br> - Once cured, put it the other way around and let some isopropanol sit on top of tthe cover to make sure nothing leaks | <img src="images/assembly/5e_cooling_tower.jpg" width="400"> |
 | - Place the rubber foam insulation for the copper plate around it.<br> It has to fit smoothly and must not bend or have too large gaps | <img src="images/assembly/5f_cooling_tower.jpg" width="400"> |
 | - Add the thermal pad or paste onto the copper plate | <img src="images/assembly/5f_cooling_tower_annotated.jpg" width="400"> |
 | - Put one rubber foam insulation for the Peltier elements on the copper plate<br> - Feed the wires from the 12709 Peltier element through the holes on the side of the top main part<br> - Place the Peltier element with the printing onto the thermal pad/paste. | <img src="images/assembly/5h_cooling_tower.jpg" width="400"> |
@@ -177,7 +177,7 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 | - Close the stack with the Top Insulation Cover | <img src="images/assembly/5k_cooling_tower.jpg" width="400"> |
 | - Add the thermal pad or paste onto the Peltier element | <img src="images/assembly/5k_cooling_tower_annotated.jpg" width="400"> |
 | - Screw the brackets of the CPU cooler onto the Top Main Part<br> - Attach the CPU cooler to the brackets with the two thumb screws on the cooler<br> __Screw them tight, so there is good thermal condutivity, but always check the top, so the printed part does not start cracking from the pressure__ | <img src="images/assembly/5l_cooling_tower.jpg" width="400"><br> <img src="images/assembly/5m_cooling_tower.jpg" width="400"><br> <img src="images/assembly/5n_cooling_tower.jpg" width="400"> |
-| - Turn the whole cooling tower around and spray the top with black spray paint | <img src="images/assembly/5o_cooling_tower.jpg" width="400"> |
+| - Turn the whole cooling tower over and spray the top with black spray paint | <img src="images/assembly/5o_cooling_tower.jpg" width="400"> |
 
 ## 6. Attach Cooling Tower
 - Glue on the cooling frame
