@@ -129,15 +129,15 @@ __Note__: all connections with the 220V->24V voltage adapter have to be done wit
 
 ## 2. Adjust Voltages
 
-Connect a voltage meter to the 2x WAGO adapters and adjust the output voltage of the three low voltage adapters.
+Connect a voltage meter to the 2x WAGO adapters and adjust the output voltage of the three low voltage adapters using a screw driver.
 
 __WARNING:__ You have to connect the system to mains and switch it on for this step, make sure you never touch the 220V conducting parts!
 
-| Voltage | Image |
+| Instruction | Image |
 |---------|-------|
-| 12V for the fan | <img src="images/assembly/2a_measure.jpg" width="500"> |
-| 3.5V for the heating element | <img src="images/assembly/2b_measure.jpg" width="500"> |
-| 3V, 5V or 12V for the LED lighting (For the LED lights linked in the parts list above, please use 3V. The picture was taking before that was installed) | <img src="images/assembly/2c_measure.jpg" width="500"> |
+| Set 12V for the fan | <img src="images/assembly/2a_measure.jpg" width="500"> |
+| Set 3.5V for the heating element | <img src="images/assembly/2b_measure.jpg" width="500"> |
+| Set 3V, 5V or 12V for the LED lighting<br> (For the LED lights linked in the parts list above, please use 3V. The picture was taking before that was installed) | <img src="images/assembly/2c_measure.jpg" width="500"> |
 
 ## 3. Case Cover - Under Side
 - Solder cables to the low power switches
@@ -159,23 +159,25 @@ __WARNING:__ You have to connect the system to mains and switch it on for this s
 The cooling tower consists of the copper plate on top of 2 stacked Peltier elements on the CPU cooler with thermo paste or pad in between (Both worked, I used pads in the final build, since they are less messy). This schematic of the cooling tower shows the different layers:<br>
 <img alt="schematic" src="images/schematic/Cooling_tower_schematics.jpg" width="800"><br>
 
+__Note:__ Usual the side with the printing is the cooling side of the Peltier elements. But double check if that it true for the ones you use.
+
 | Instruction | Image |
 |-------------|-------|
-|  | <img src="images/assembly/5a_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5b_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5c_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5d_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5e_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5f_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5g_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5h_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5i_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5j_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5k_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5l_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5m_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5n_cooling_tower.jpg" width="400"> |
-|  | <img src="images/assembly/5o_cooling_tower.jpg" width="400"> |
+| Overview of used parts for the top | <img src="images/assembly/5a_cooling_tower.jpg" width="400"> |
+| - Use the stencils to mark cutout from the foam rubber | <img src="images/assembly/5b_cooling_tower.jpg" width="400"> |
+| - Create two cutouts for the peltier elements and one for the copper plate  | <img src="images/assembly/5c_cooling_tower.jpg" width="400"> |
+| - Put silicone into the indentation in the top main part | <img src="images/assembly/5d_cooling_tower_annotated.jpg" width="400"> |
+| - Glue in the copper plate.<br> __Make sure there are no gaps, the silicone acts as insulation and to prevent liquid from leaking out from the cloud chamber__ | <img src="images/assembly/5e_cooling_tower.jpg" width="400"> |
+| - Place the rubber foam insulation for the copper plate around it.<br> It has to fit smoothly and must not bend or have too large gaps | <img src="images/assembly/5f_cooling_tower.jpg" width="400"> |
+| - Add the thermal pad or paste onto the copper plate | <img src="images/assembly/5f_cooling_tower_annotated.jpg" width="400"> |
+| - Put one rubber foam insulation for the Peltier elements on the copper plate<br> - Feed the wires from the 12709 Peltier element through the holes on the side of the top main part<br> - Place the Peltier element with the printing towards the copper plate onto it. | <img src="images/assembly/5h_cooling_tower.jpg" width="400"> |
+| - Add the thermal pad or paste onto the Peltier element | <img src="images/assembly/5h_cooling_tower_annotated.jpg" width="400"> |
+| - Feed the wires from the 12715 Peltier element through the other two holes on the side of the top main part<br> - Place the Peltier element with the printing towards the other Peltier element | <img src="images/assembly/5i_cooling_tower.jpg" width="400"> |
+| - Put the second rubber foam insulation for the Peltier elements around the Peltier element | <img src="images/assembly/5j_cooling_tower.jpg" width="400"> |
+| - Close the stack with the Top Insulation Cover | <img src="images/assembly/5k_cooling_tower.jpg" width="400"> |
+| - Add the thermal pad or paste onto the Peltier element | <img src="images/assembly/5k_cooling_tower_annotated.jpg" width="400"> |
+| - Screw the brackets of the CPU cooler onto the Top Main Part<br> - Attach the CPU cooler to the brackets with the two thumb screws on the cooler<br> __Screw them tight, so there is good thermal condutivity, but always check the top, so the printed part does not start cracking from the pressure__ | <img src="images/assembly/5l_cooling_tower.jpg" width="400"><br> <img src="images/assembly/5m_cooling_tower.jpg" width="400"><br> <img src="images/assembly/5n_cooling_tower.jpg" width="400"> |
+| - Turn the whole cooling tower around and spray the top with black spray paint | <img src="images/assembly/5o_cooling_tower.jpg" width="400"> |
 
 ## 6. Attach Cooling Tower
 - Glue on the cooling frame
