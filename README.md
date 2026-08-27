@@ -179,32 +179,37 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 | - Screw the brackets of the CPU cooler onto the Top Main Part<br> - Attach the CPU cooler to the brackets with the two thumb screws on the cooler<br> __Screw them tight, so there is good thermal condutivity, but always check the top, so the printed part does not start cracking from the pressure__ | <img src="images/assembly/5l_cooling_tower.jpg" width="400"><br> <img src="images/assembly/5m_cooling_tower.jpg" width="400"><br> <img src="images/assembly/5n_cooling_tower.jpg" width="400"> |
 | - Turn the whole cooling tower over and spray the top with black spray paint | <img src="images/assembly/5o_cooling_tower.jpg" width="400"> |
 
-## 6. Attach Cooling Tower
+
+## 6. Add Heating Element
+
+| Instruction | Image |
+|-------------|-------|
+| Stick the heating element on top of the acrylic case | <img src="images/assembly/9a_heat_sticker.jpg" width="400"> | 
+
+## 7. Add lights
+
+TBD
+
+## 8. Attach Cooling Tower
 
 | Instruction | Image |
 |-------------|-------|
 | - Glue the cooling tower frame on the case cover | <img src="images/assembly/6a_attach_cooling_tower.jpg" width="400"> |
-| - Stick the cooling tower with the attached fan into the frame | <img src="images/assembly/6b_attach_cooling_tower.jpg" width="400"><br> <img src="images/assembly/6c_attach_cooling_tower.jpg" width="400"> | 
+| - Stick the cooling tower with the attached fan into the frame<br> - Feed the cables from the Peltier elements, the heating element and the lights through the hole beside the tower frame in the case cover | <img src="images/assembly/6b_attach_cooling_tower.jpg" width="400"><br> <img src="images/assembly/6c_attach_cooling_tower.jpg" width="400"> | 
 
-## 7. Connect Cooling Tower
+## 9. Connect Cooling Tower
 - Connect the cables from the cooling tower with the underside of the cover
   - Heating element
   - 2x Peltier element
   - Light
 <img src="images/assembly/7a_cover_underside.jpg" width="200"> 
 
-## 8. Connect Cover to Bottom
+## 10. Connect Cover to Bottom
 - Connect the power and ground connectors of the cover with the WAGO connectors in the bottom
 <img src="images/assembly/8a_connect_cover_bottom.jpg" width="200"> 
 - Stick the 24V power cables through the cover and attach then to the in connectors of the voltage converters
 <img src="images/assembly/8b_connect_cover_bottom.jpg" width="200"> 
 - Put cover on bottom and screw it in place
-
-## 9. Add Heating Element
-- Stick the heating element om top of the acrylic case
-<img src="images/assembly/9a_heat_sticker.jpg" width="200"> 
-
-## 10. Add lights
 
 
 # Notes
