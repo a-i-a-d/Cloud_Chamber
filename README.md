@@ -187,7 +187,7 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 
 | <div style="width:400px">Instruction</div> | <div style="width:400px">Image</div> |
 |-------------|-------|
-| Overview of used parts for the top | <img src="images/assembly/5a_cooling_tower.jpg" width="400"> |
+| - Overview of used parts for the top | <img src="images/assembly/5a_cooling_tower.jpg" width="400"> |
 | - Use the stencils to mark cutout from the foam rubber | <img src="images/assembly/5b_cooling_tower.jpg" width="400"> |
 | - Create two cutouts for the peltier elements and one for the copper plate  | <img src="images/assembly/5c_cooling_tower.jpg" width="400"> |
 | - Put silicone into the indentation in the top main part | <img src="images/assembly/5d_cooling_tower_annotated.png" width="400"> |
