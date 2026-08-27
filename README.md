@@ -18,6 +18,8 @@ __This project requires to work with 220V, which can be deadly. Do not attempt t
 - I did not make use of a high voltage field, it did not seem necessary but might be added at some point in the future. Everything is prepared for it (switch, location for power adapter), so it shouldn't be hard to add it.
 - Pictures in this document were taken at different build stages and might not be fully accurate, since I added e.g. the light part later on.
 
+## Table of Contents
+
 - [Parts](https://github.com/a-i-a-d/Cloud_Chamber#parts)
   - [To be Bought](https://github.com/a-i-a-d/Cloud_Chamber#to-be-bought)
   - [To be Printed](https://github.com/a-i-a-d/Cloud_Chamber#to-be-printed)
