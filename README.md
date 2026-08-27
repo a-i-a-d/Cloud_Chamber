@@ -93,7 +93,7 @@ A simple diagram showing how everything gets connected. There is not much going 
 # Assembly
 Once all parts are printed, the assembly is pretty much straight forward.
 
-## 1. Bottom
+## 1. Case Bottom
 
 __Note__: all connections with the 220V->24V voltage adapter have to be done with cable lugs. Don't screw in cables directly!
 
@@ -138,20 +138,20 @@ __WARNING:__ You have to connect the system to mains and switch it on for this s
 | 3.5V for the heating element | <img src="images/assembly/2b_measure.jpg" width="500"> |
 | 3V, 5V or 12V for the LED lighting (For the LED lights linked in the parts list above, please use 3V. The picture was taking before that was installed) | <img src="images/assembly/2c_measure.jpg" width="500"> |
 
-## 3. Cover Under Side
+## 3. Case Cover - Under Side
 - Solder cables to the low power switches
 - Insert switches and voltage meter in the cover
 - Glue in 7 WAGO-2x connectors
 - Connect switches with WAGO connectors
 - Insert power cables and voltage meter cables through cover
-<img src="images/assembly/3a_cover_underside.jpg" width="200"> 
+<img src="images/assembly/3a_cover_underside_annotated.jpg" width="800"> 
 
-## 4. Cover Upper Side
-- Rotate cover and make sure power and voltage meter cables are available
-<img src="images/assembly/4a_cover_upperside.jpg" width="200"> 
-- Screw in high power voltage converters
-- Attach cables to out connectors of voltage converters 
-<img src="images/assembly/4b_cover_upperside.jpg" width="200"> 
+## 4. Case Cover - Upper Side
+
+| Instruction | Image |
+|-------------|-------|
+| - Rotate cover and make sure power and voltage meter cables are available | <img src="images/assembly/4a_cover_upperside.jpg" width="400"> |
+| - Screw in high power voltage converters<br> - Attach cables to out connectors of voltage converters | <img src="images/assembly/4b_cover_upperside.jpg" width="400"> |
 
 ## 5. Assemble Cooling Tower
 
