@@ -166,13 +166,13 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 | Overview of used parts for the top | <img src="images/assembly/5a_cooling_tower.jpg" width="400"> |
 | - Use the stencils to mark cutout from the foam rubber | <img src="images/assembly/5b_cooling_tower.jpg" width="400"> |
 | - Create two cutouts for the peltier elements and one for the copper plate  | <img src="images/assembly/5c_cooling_tower.jpg" width="400"> |
-| - Put silicone into the indentation in the top main part | <img src="images/assembly/5d_cooling_tower_annotated.jpg" width="400"> |
+| - Put silicone into the indentation in the top main part | <img src="images/assembly/5d_cooling_tower_annotated.png" width="400"> |
 | - Glue in the copper plate.<br> __Make sure there are no gaps, the silicone acts as insulation and to prevent liquid from leaking out from the cloud chamber__ | <img src="images/assembly/5e_cooling_tower.jpg" width="400"> |
 | - Place the rubber foam insulation for the copper plate around it.<br> It has to fit smoothly and must not bend or have too large gaps | <img src="images/assembly/5f_cooling_tower.jpg" width="400"> |
 | - Add the thermal pad or paste onto the copper plate | <img src="images/assembly/5f_cooling_tower_annotated.jpg" width="400"> |
-| - Put one rubber foam insulation for the Peltier elements on the copper plate<br> - Feed the wires from the 12709 Peltier element through the holes on the side of the top main part<br> - Place the Peltier element with the printing towards the copper plate onto it. | <img src="images/assembly/5h_cooling_tower.jpg" width="400"> |
+| - Put one rubber foam insulation for the Peltier elements on the copper plate<br> - Feed the wires from the 12709 Peltier element through the holes on the side of the top main part<br> - Place the Peltier element with the printing onto the thermal pad/paste. | <img src="images/assembly/5h_cooling_tower.jpg" width="400"> |
 | - Add the thermal pad or paste onto the Peltier element | <img src="images/assembly/5h_cooling_tower_annotated.jpg" width="400"> |
-| - Feed the wires from the 12715 Peltier element through the other two holes on the side of the top main part<br> - Place the Peltier element with the printing towards the other Peltier element | <img src="images/assembly/5i_cooling_tower.jpg" width="400"> |
+| - Feed the wires from the 12715 Peltier element through the other two holes on the side of the top main part<br> - Place the Peltier element with the printing towards the thermal paste/pad | <img src="images/assembly/5i_cooling_tower.jpg" width="400"> |
 | - Put the second rubber foam insulation for the Peltier elements around the Peltier element | <img src="images/assembly/5j_cooling_tower.jpg" width="400"> |
 | - Close the stack with the Top Insulation Cover | <img src="images/assembly/5k_cooling_tower.jpg" width="400"> |
 | - Add the thermal pad or paste onto the Peltier element | <img src="images/assembly/5k_cooling_tower_annotated.jpg" width="400"> |
