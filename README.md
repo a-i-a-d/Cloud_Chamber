@@ -156,8 +156,8 @@ __WARNING:__ You have to connect the system to mains and switch it on for this s
 
 ## 5. Assemble Cooling Tower
 
-Schematic of the cooling tower:
-<img alt="schematic" src="images/schematic/Cooling_tower_schematics.jpg" width="500">
+The cooling tower consists of 2 stacked Peltier elements with thermo paste or pad in between (Both worked, I used pads in the final build, since they are less messy). This schematic of the cooling tower shows the different layers:<br>
+<img alt="schematic" src="images/schematic/Cooling_tower_schematics.jpg" width="800"><br>
 <img src="images/assembly/5a_cooling_tower.jpg" width="200">
 <img src="images/assembly/5b_cooling_tower.jpg" width="200">
 <img src="images/assembly/5c_cooling_tower.jpg" width="200">
