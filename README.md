@@ -202,13 +202,13 @@ TBD
   - Heating element
   - 2x Peltier element
   - Light
-<img src="images/assembly/7a_cover_underside.jpg" width="200"> 
+<img src="images/assembly/7a_cover_underside.jpg" width="800"> 
 
 ## 10. Connect Cover to Bottom
 - Connect the power and ground connectors of the cover with the WAGO connectors in the bottom
-<img src="images/assembly/8a_connect_cover_bottom.jpg" width="200"> 
+<img src="images/assembly/8a_connect_cover_bottom.jpg" width="400"> 
 - Stick the 24V power cables through the cover and attach then to the in connectors of the voltage converters
-<img src="images/assembly/8b_connect_cover_bottom.jpg" width="200"> 
+<img src="images/assembly/8b_connect_cover_bottom.jpg" width="400"> 
 - Put cover on bottom and screw it in place
 
 
