@@ -193,7 +193,7 @@ TBD
 ## 8. Attach Cooling Tower
 
 | Instruction | Image |
-|-------------|-------|
+| ----------- | ----- |
 | - Glue the cooling tower frame on the case cover | <img src="images/assembly/6a_attach_cooling_tower.jpg" width="400"> |
 | - Stick the cooling tower with the attached fan into the frame<br> - Feed the cables from the Peltier elements, the heating element and the lights through the hole beside the tower frame in the case cover | <img src="images/assembly/6b_attach_cooling_tower.jpg" width="400"><br> <img src="images/assembly/6c_attach_cooling_tower.jpg" width="400"> | 
 
