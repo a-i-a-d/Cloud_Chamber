@@ -18,6 +18,28 @@ __This project requires to work with 220V, which can be deadly. Do not attempt t
 - I did not make use of a high voltage field, it did not seem necessary but might be added at some point in the future. Everything is prepared for it (switch, location for power adapter), so it shouldn't be hard to add it.
 - Pictures in this document were taken at different build stages and might not be fully accurate, since I added e.g. the light part later on.
 
+- [Parts](https://github.com/a-i-a-d/Cloud_Chamber#parts)
+  - [To be Bought](https://github.com/a-i-a-d/Cloud_Chamber#to-be-bought)
+  - [To be Printed](https://github.com/a-i-a-d/Cloud_Chamber#to-be-printed)
+  - [Other Things Required](https://github.com/a-i-a-d/Cloud_Chamber#other-things-required)
+- [Power Schematics](https://github.com/a-i-a-d/Cloud_Chamber#power-schematic)
+- [Assembly](https://github.com/a-i-a-d/Cloud_Chamber#assembly)
+  - [1. Case Bottom](https://github.com/a-i-a-d/Cloud_Chamber#1-case-bottom)
+  - [2. Adjust Voltages](https://github.com/a-i-a-d/Cloud_Chamber#2-adjust-voltages)
+  - [3. Case Cover - Under Side](https://github.com/a-i-a-d/Cloud_Chamber#3-case-cover---under-side)
+  - [4. Case Cover - Upper Side](https://github.com/a-i-a-d/Cloud_Chamber#4-case-cover---upper-side)
+  - [5. Assemble Cooling Tower](https://github.com/a-i-a-d/Cloud_Chamber#5-assemble-cooling-tower)
+  - [6. Add Heating Element](https://github.com/a-i-a-d/Cloud_Chamber#6-add-heating-element)
+  - [7. Add lights](https://github.com/a-i-a-d/Cloud_Chamber#7-add-lights)
+  - [8. Attach Cooling Tower](https://github.com/a-i-a-d/Cloud_Chamber#8-attach-cooling-tower)
+  - [9. Connect Cooling Tower](https://github.com/a-i-a-d/Cloud_Chamber#9-connect-cooling-tower)
+  - [10. Connect Case Cover to Bottom](https://github.com/a-i-a-d/Cloud_Chamber#10-connect-cover-to-bottom)
+- [Usage]()
+  - [Adjust Peltier Voltage]()
+  - [Prepare Chamber]()
+  - [Running the system]()
+- [Notes](https://github.com/a-i-a-d/Cloud_Chamber#notes)
+
 # Parts
 
 ## To be bought
