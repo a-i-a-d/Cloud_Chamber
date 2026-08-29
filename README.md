@@ -164,11 +164,15 @@ __WARNING:__ You have to connect the system to mains and switch it on for this s
 | Set 3V, 5V or 12V for the LED lighting<br> (For the LED lights linked in the parts list above, please use 3V. The picture was taking before that was installed) | <img src="images/assembly/2c_measure.jpg" width="500"> |
 
 ## 3. Case Cover - Under Side
-- Solder cables to the low power switches
-- Insert switches and voltage meter in the cover
 - Glue in 7 WAGO-2x connectors
-- Connect switches with WAGO connectors
-- Insert power cables and voltage meter cables through cover
+- Solder 2x AWG16 cables to the 2 Peltier power switches
+- Solder 2x AWG10 cables to the Light and Heating switches
+- Plug switches in their holes in the cover
+- Feed the AWG16 wires from one connection of the Peltier switches through the holes to the high power voltage adapter
+- Connect the AWG16 cables from the other Peltier switch connection to the Lower and Upper Peltier WAGO connector (make sure to not mix them up)
+- Connect the AWG10 wires of one connection of the Light and Heating switches to the corresponding WAGO connectors
+- Leave the 2 AWG10 wires from the other connection of the Light and Heating switches hanging lose (they'll be connected to the case base later)
+- Insert mini voltage meters in the holes in the cover and also feed the wires through the holes to the high power voltage adapter
 <img src="images/assembly/3a_cover_underside_annotated.jpg" width="800"> 
 
 ## 4. Case Cover - Upper Side
@@ -176,7 +180,7 @@ __WARNING:__ You have to connect the system to mains and switch it on for this s
 | Instruction | Image |
 |-------------|-------|
 | - Rotate cover and make sure power and voltage meter cables are available | <img src="images/assembly/4a_cover_upperside.jpg" width="400"> |
-| - Screw in high power voltage converters using 3x12mm screws<br> - Screw in cables into the out connectors of the voltage converters | <img src="images/assembly/4b_cover_upperside.jpg" width="400"> |
+| - Screw in high power voltage converters using 3x12mm screws<br> - Screw in the AWG16 cables and the cables from the voltage meters into the out connectors of the voltage converters (take care of correct polarity) | <img src="images/assembly/4b_cover_upperside.jpg" width="400"> |
 
 ## 5. Assemble Cooling Tower
 
@@ -212,7 +216,11 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 
 ## 7. Add lights
 
-TBD
+| Instruction | Image |
+|-------------|-------|
+|  | <img src="images/assembly/7a_light.jpg" width="400"> |
+|  | <img src="images/assembly/7b_light.jpg" width="400"> |
+|  | <img src="images/assembly/7c_light.jpg" width="400"> |
 
 ## 8. Attach Cooling Tower
 
