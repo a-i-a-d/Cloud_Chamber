@@ -218,9 +218,9 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 
 | Instruction | Image |
 |-------------|-------|
-|  | <img src="images/assembly/7a_light.jpg" width="400"> |
-|  | <img src="images/assembly/7b_light.jpg" width="400"> |
-|  | <img src="images/assembly/7c_light.jpg" width="400"> |
+| - Print the Light Connector Box and the LED Carrier<br> - slide the carrier into the box and screw in one or two 2mm screws to fixate the carrier | <img src="images/assembly/7a_light.jpg" width="400"> |
+| - Screw the LEDspot lights onto the carrier and feed their cables through the small opening of the box  | <img src="images/assembly/7b_light.jpg" width="400"> |
+| - Attach the box to the cooling tower<br> - Fixate it with screws is necessary<br> The height of the LED spot lights can be adjusted by moving the LED carrier and fixating it with the screws from behind | <img src="images/assembly/7c_light.jpg" width="400"> |
 
 ## 8. Attach Cooling Tower
 
