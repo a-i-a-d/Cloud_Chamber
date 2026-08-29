@@ -230,10 +230,11 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 | - Stick the cooling tower with the attached fan into the frame<br> - Feed the cables from the Peltier elements, the heating element and the lights through the hole beside the tower frame in the case cover | <img src="images/assembly/6b_attach_cooling_tower.jpg" width="400"><br> <img src="images/assembly/6c_attach_cooling_tower.jpg" width="400"> | 
 
 ## 9. Connect Cooling Tower
-- Connect the cables from the cooling tower with the underside of the cover
-  - Heating element
-  - 2x Peltier element
-  - Light
+- Connect the V+ wires of the Peltier elements to the corresponding WAGO connectors
+- Connect the GND wires of the Peltier elements to the corresponding WAGO connectors
+- Connect the V+ wires from the LEDs and heating element with the corresponding WAGO connectors<br>(Please not that in the picture, the GND cable wrongfully is connected. The cable is supposed to be red, not black)
+- Leave the GND wirse from the LEDs and heating element hanging lose
+<img src="images/assembly/3a_cover_underside_annotated.jpg" width="800">
 <img src="images/assembly/7a_cover_underside.jpg" width="800"> 
 
 ## 10. Connect Cover to Bottom
