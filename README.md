@@ -164,6 +164,9 @@ __WARNING:__ You have to connect the system to mains and switch it on for this s
 | Set 3V, 5V or 12V for the LED lighting<br> (For the LED lights linked in the parts list above, please use 3V. The picture was taking before that was installed) | <img src="images/assembly/2c_measure.jpg" width="500"> |
 
 ## 3. Case Cover - Under Side
+
+__NOTE:__ All wires should have their ends soldered before putting them into the WAGO connectors. It's not moandatory, but prevents problems of bad connections
+
 - Glue in 7 WAGO-2x connectors
 - Solder 2x AWG16 cables to the 2 Peltier power switches
 - Solder 2x AWG10 cables to the Light and Heating switches
@@ -212,7 +215,7 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 
 | Instruction | Image |
 |-------------|-------|
-| - Stick the heating element on top of the acrylic case | <img src="images/assembly/9a_heat_sticker.jpg" width="400"> | 
+| - Stick the heating element on top of the acrylic case<br> - Fixate a piece of felt in the acrylic cover using the magnets | <img src="images/assembly/9a_heat_sticker.jpg" width="400"> | 
 
 ## 7. Add lights
 
@@ -234,15 +237,43 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 - Connect the GND wires of the Peltier elements to the corresponding WAGO connectors
 - Connect the V+ wires from the LEDs and heating element with the corresponding WAGO connectors<br>(Please not that in the picture, the GND cable wrongfully is connected. The cable is supposed to be red, not black)
 - Leave the GND wirse from the LEDs and heating element hanging lose
-<img src="images/assembly/3a_cover_underside_annotated.jpg" width="800">
 <img src="images/assembly/7a_cover_underside.jpg" width="800"> 
 
 ## 10. Connect Cover to Bottom
-- Connect the power and ground connectors of the cover with the WAGO connectors in the bottom
+- Connect the lose cables from the top on the cover with the corresponding connectors in the base
+  - Light V+ (red wire from the power switch)
+  - Light GND (black wire from the cooling tower)
+  - Heating V+ (red wire from the power switch)
+  - Heating GND (black wire from the cooling tower)
+  - Fan V+ (wire from the cooling tower)
+  - Fan GND (wire from the cooling tower)
 <img src="images/assembly/8a_connect_cover_bottom.jpg" width="400"> 
-- Stick the 24V power cables through the cover and attach then to the in connectors of the voltage converters
+- Stick the 24V+ AWG16 cables through the cover and screw them into the V+ terminals of the high power voltage adapters on top of the cover
+- Stick the GND AWG16 cables through the cover and screw them into the GND terminals of the high power voltage adapters on top of the cover
 <img src="images/assembly/8b_connect_cover_bottom.jpg" width="400"> 
-- Put cover on bottom and screw it in place
+- Put cover on bottom and screw it in place with 8x3mm screws
 
+# Usage
 
-# Notes
+Before using the cloud chamber the first time, you need to adjust the voltage for the peltier elements.
+
+## First time setup
+- Make sure all power switches for the cooling tower are switched off
+- Connect the 220V socket with a cable and plug it into mains
+- Switch the 220V power switch
+- The fan will tarts turning and the voltage displays will show the voltage they deliver to the peltier elements
+- Adjust the voltage output of the coltage adapters on the case cover for the peltier elements using a screw driver and rotating the voltage adjustent clock wise. These values worked well for me:
+  - Upper Peltier: 5V
+  - Lower Peltier: 10.5V
+- Make sure that you open up the current fully for the adapters
+  - Screw the current adjustment clock wise as far as it goes
+
+## Normal Use
+- Drop 5ml of 70% isopropanol on the felt in the acrylic case
+- Place a radioactive source on top of the cooling tower
+- Put the acrylic case on top of the cooling tower, closing the chamber
+- Switch on peltier elements
+- Switch on lights
+- Switch on leating element
+- Wait for approx 5min
+- Enjoy :)
