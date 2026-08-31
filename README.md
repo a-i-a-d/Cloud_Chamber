@@ -9,11 +9,11 @@ This project is the documentation on how I built a Peltier element based cloud c
 
 ## WARNING
 
-__This project requires to work with 220V, which can be deadly. Do not attempt to build it if you are not familiar in dealng with mains voltage!__
+__This project requires to work with 220V, which can be deadly. Do not attempt to build it if you are not familiar in dealing with mains voltage!__
 
 ## Important Notes
 
-- The Peltier elements I used did not consume the wattage accordings to the specs, so I assume them to be of inferior quality, and therefor will not provide links to where I got them. They do the job, but if they would work according to specs, they should provide even greater cooling.
+- The Peltier elements I used did not consume the wattage accordance to the specs, so I assume them to be of inferior quality, and therefore will not provide links to where I got them. They do the job, but if they would work according to specs, they should provide even greater cooling.
 - This project was not planned, but rather build as a proof of concept to see if the concept works at all, so there are many things that can be improved or changed, e.g. less glueing.
 - I did not make use of a high voltage field, it did not seem necessary but might be added at some point in the future. Everything is prepared for it (switch, location for power adapter), so it shouldn't be hard to add it.
 - Pictures in this document were taken at different build stages and might not be fully accurate, since I added e.g. the light part later on.
@@ -27,7 +27,7 @@ __This project requires to work with 220V, which can be deadly. Do not attempt t
 - [Power Schematics](https://github.com/a-i-a-d/Cloud_Chamber#power-schematic)
 - [Assembly](https://github.com/a-i-a-d/Cloud_Chamber#assembly)
   - [1. Case Bottom](https://github.com/a-i-a-d/Cloud_Chamber#1-case-bottom)
-  - [2. Adjust Voltages](https://github.com/a-i-a-d/Cloud_Chamber#2-adjust-voltages)
+  - [2. adjust voltages](https://github.com/a-i-a-d/Cloud_Chamber#2-adjust-voltages)
   - [3. Case Cover - Under Side](https://github.com/a-i-a-d/Cloud_Chamber#3-case-cover---under-side)
   - [4. Case Cover - Upper Side](https://github.com/a-i-a-d/Cloud_Chamber#4-case-cover---upper-side)
   - [5. Assemble Cooling Tower](https://github.com/a-i-a-d/Cloud_Chamber#5-assemble-cooling-tower)
@@ -106,7 +106,7 @@ All printed parts are openscad code, you can open them with openscad and then di
 
 ## Other things required
 
-- Voltage Meter - for adjusting the voltages<br>
+- Voltage Meter - for <br><br>
 - Soldering Iron, for soldering cables to the low power adapters, plugs and switches.
 
 
@@ -151,7 +151,7 @@ __Note__: all connections with the 220V->24V voltage adapter have to be done wit
 - Connect the three V+ and three GND output cables of the low voltage adapters with the the 6 2xWAGO connectors (one connection per WAGO)
 <img src="images/assembly/1b_bottom_annotated.jpg" width="800"> 
 
-## 2. Adjust Voltages
+## 2. adjust voltages
 
 Connect a voltage meter to the 2x WAGO adapters and adjust the output voltage of the three low voltage adapters using a screw driver.
 
@@ -235,7 +235,7 @@ __Note:__ Usual the side with the printing is the cooling side of the Peltier el
 ## 9. Connect Cooling Tower
 - Connect the V+ wires of the Peltier elements to the corresponding WAGO connectors
 - Connect the GND wires of the Peltier elements to the corresponding WAGO connectors
-- Connect the V+ wires from the LEDs and heating element with the corresponding WAGO connectors<br>(Please not that in the picture, the GND cable wrongfully is connected. The cable is supposed to be red, not black)
+- Connect the V+ wires from the LEDs and heating element with the corresponding WAGO connectors<br>(Please note that in the picture, the GND cable wrongfully is connected. The cable is supposed to be red, not black)
 - Leave the GND wirse from the LEDs and heating element hanging lose
 <img src="images/assembly/7a_cover_underside.jpg" width="800"> 
 
