@@ -5,7 +5,7 @@
  <img src="images/cloud_chamber_02.jpg" width="400">
 </p>
 
-![](https://makertube.net/videos/embed/pzxP9qUm7jw7FhgjCAvhw9)
+![]({https://makertube.net/videos/embed/pzxP9qUm7jw7FhgjCAvhw9})
 
 This project is the documentation on how I built a Peltier element based cloud chamber. The motivation came from having most of the required parts laying around, and since it works quite well, here are instructions on how it is made.
 
