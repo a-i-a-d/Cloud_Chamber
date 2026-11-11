@@ -3,8 +3,9 @@
 <p float="left">
  <img src="images/cloud_chamber_01.jpg" width="400">
  <img src="images/cloud_chamber_02.jpg" width="400">
- <iframe title="Americium in Cloud Chamber" width="560" height="315" src="https://makertube.net/videos/embed/pzxP9qUm7jw7FhgjCAvhw9" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 </p>
+
+![](https://makertube.net/videos/embed/pzxP9qUm7jw7FhgjCAvhw9)
 
 This project is the documentation on how I built a Peltier element based cloud chamber. The motivation came from having most of the required parts laying around, and since it works quite well, here are instructions on how it is made.
 
